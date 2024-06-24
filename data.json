@@ -1,5 +1,103 @@
-{
-    "name": "John Doe",
-    "age": 30,
-    "city": "Anytown"
-}
+[
+    {
+        "withChildren":{
+            "Location":"Hawaii",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.36115,
+            "StatPrevious":0.36441,
+            "StatDifference":0.0089459675,
+            "StatIncrease":false
+        }
+    },
+    {
+        "withChildren":{
+            "Location":"C&C Honolulu",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.36667,
+            "StatPrevious":0.37059,
+            "StatDifference":0.0105777274,
+            "StatIncrease":false
+        }
+    },
+    {
+        "withChildren":{
+            "Location":"Hawaii County",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.34548,
+            "StatPrevious":0.35082,
+            "StatDifference":0.0152214811,
+            "StatIncrease":false
+        }
+    },
+    {
+        "withChildren":{
+            "Location":"Kauai County",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.31213,
+            "StatPrevious":0.32354,
+            "StatDifference":0.0352661186,
+            "StatIncrease":false
+        }
+    },
+    {
+        "withChildren":{
+            "Location":"Maui County",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.36833,
+            "StatPrevious":0.36175,
+            "StatDifference":0.0181893573,
+            "StatIncrease":true
+        }
+    }
+] , [
+    {
+        "withChildrenSingle":{
+            "Location":"Hawaii",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.27771,
+            "StatPrevious":0.27099,
+            "StatDifference":0.024797963,
+            "StatIncrease":true
+        }
+    },
+    {
+        "withChildrenSingle":{
+            "Location":"C&C Honolulu",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.24532,
+            "StatPrevious":0.24085,
+            "StatDifference":0.0185592692,
+            "StatIncrease":true
+        }
+    },
+    {
+        "withChildrenSingle":{
+            "Location":"Hawaii County",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.38741,
+            "StatPrevious":0.38174,
+            "StatDifference":0.0148530413,
+            "StatIncrease":true
+        }
+    },
+    {
+        "withChildrenSingle":{
+            "Location":"Kauai County",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.33077,
+            "StatPrevious":0.33052,
+            "StatDifference":0.0007563839,
+            "StatIncrease":true
+        }
+    },
+    {
+        "withChildrenSingle":{
+            "Location":"Maui County",
+            "TimeFrame":"2018-2022",
+            "StatNow":0.32229,
+            "StatPrevious":0.29897,
+            "StatDifference":0.0780011372,
+            "StatIncrease":true
+        }
+    }
+]
