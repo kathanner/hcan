@@ -5,8 +5,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"36.12%",
             "StatPrevious":"36.44%",
-            "StatDifference":"0.89%",
-            "StatIncrease":false
+            "StatDifference":"0.89%"
         }
     },
     {
@@ -15,8 +14,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"36.67%",
             "StatPrevious":"37.06%",
-            "StatDifference":"1.06%",
-            "StatIncrease":false
+            "StatDifference":"1.06%"
         }
     },
     {
@@ -25,8 +23,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"34.55%",
             "StatPrevious":"35.08%",
-            "StatDifference":"1.52%",
-            "StatIncrease":false
+            "StatDifference":"1.52%"
         }
     },
     {
@@ -35,8 +32,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"31.21%",
             "StatPrevious":"32.35%",
-            "StatDifference":"3.53%",
-            "StatIncrease":false
+            "StatDifference":"3.53%"
         }
     },
     {
@@ -45,8 +41,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"36.83%",
             "StatPrevious":"36.18%",
-            "StatDifference":"1.82%",
-            "StatIncrease":true
+            "StatDifference":"1.82%"
         }
     },
     {
@@ -55,8 +50,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"27.77%",
             "StatPrevious":"27.10%",
-            "StatDifference":"2.48%",
-            "StatIncrease":true
+            "StatDifference":"2.48%"
         }
     },
     {
@@ -65,8 +59,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"24.53%",
             "StatPrevious":"24.09%",
-            "StatDifference":"1.86%",
-            "StatIncrease":true
+            "StatDifference":"1.86%"
         }
     },
     {
@@ -75,8 +68,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"38.74%",
             "StatPrevious":"38.17%",
-            "StatDifference":"1.49%",
-            "StatIncrease":true
+            "StatDifference":"1.49%"
         }
     },
     {
@@ -85,8 +77,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"33.08%",
             "StatPrevious":"33.05%",
-            "StatDifference":"0.08%",
-            "StatIncrease":true
+            "StatDifference":"0.08%"
         }
     },
     {
@@ -95,8 +86,7 @@
             "TimeFrame":"2018-2022",
             "StatNow":"32.23%",
             "StatPrevious":"29.90%",
-            "StatDifference":"7.80%",
-            "StatIncrease":true
+            "StatDifference":"7.80%"
         }
     }
 ]
