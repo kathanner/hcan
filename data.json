@@ -1,47 +1,162 @@
 [
     {
-        "withChildren":{
             "Location":"Hawaii",
+            "Indicator":"Percent of families with children",
             "TimeFrame":"2018-2022",
             "StatNow":"36.12%",
             "StatPrevious":"36.44%",
             "StatDifference":"0.89%"
-        }
     },
     {
-        "withChildren":{
-            "Location":"C&C Honolulu",
+            "Location":"Hawaii",
+            "Indicator":"Percent of families with children that are single-parent families",
             "TimeFrame":"2018-2022",
-            "StatNow":"36.67%",
-            "StatPrevious":"37.06%",
-            "StatDifference":"1.06%"
-        }
+            "StatNow":"27.77%",
+            "StatPrevious":"27.10%",
+            "StatDifference":"2.48%"
     },
     {
-        "withChildren":{
-            "Location":"Hawaii County",
+            "Location":"Hawaii",
+            "Indicator":"Percent of families with young children",
             "TimeFrame":"2018-2022",
-            "StatNow":"34.55%",
-            "StatPrevious":"35.08%",
+            "StatNow":"41.48%",
+            "StatPrevious":"42.12%",
+            "StatDifference":"1.53%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Population of young children (0-4)",
+            "TimeFrame":"2022",
+            "StatNow":"7960000.00%",
+            "StatPrevious":"8179900.00%",
+            "StatDifference":"2.69%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Percent of children in immigrant families",
+            "TimeFrame":"2018-2022",
+            "StatNow":"28.20%",
+            "StatPrevious":"28.64%",
             "StatDifference":"1.52%"
-        }
     },
     {
-        "withChildren":{
-            "Location":"Kauai County",
-            "TimeFrame":"2018-2022",
-            "StatNow":"31.21%",
-            "StatPrevious":"32.35%",
-            "StatDifference":"3.53%"
-        }
+            "Location":"Hawaii",
+            "Indicator":"High school seniors graduating with a diploma",
+            "TimeFrame":"2022",
+            "StatNow":"94.43%",
+            "StatPrevious":"93.75%",
+            "StatDifference":"0.73%"
     },
     {
-        "withChildren":{
-            "Location":"Maui County",
+            "Location":"Hawaii",
+            "Indicator":"Percent of students who are English language learners",
+            "TimeFrame":"2022",
+            "StatNow":"10.10%",
+            "StatPrevious":"9.80%",
+            "StatDifference":"3.06%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Percent of K-12 in special education",
+            "TimeFrame":"2022",
+            "StatNow":"10.50%",
+            "StatPrevious":"10.40%",
+            "StatDifference":"0.96%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Unemployment rate (annual average)",
+            "TimeFrame":"2022",
+            "StatNow":"350.00%",
+            "StatPrevious":"600.00%",
+            "StatDifference":"41.67%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Percent of young children with all parents in workforce",
             "TimeFrame":"2018-2022",
-            "StatNow":"36.83%",
-            "StatPrevious":"36.18%",
-            "StatDifference":"1.82%"
-        }
+            "StatNow":"66.47%",
+            "StatPrevious":"65.41%",
+            "StatDifference":"1.62%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Children receiving public assistance",
+            "TimeFrame":"2018-2022",
+            "StatNow":"25.80%",
+            "StatPrevious":"24.86%",
+            "StatDifference":"3.81%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Children in poverty (0-17)",
+            "TimeFrame":"2022",
+            "StatNow":"12.10%",
+            "StatPrevious":"12.90%",
+            "StatDifference":"6.20%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Children under 6 in poverty (ACS)",
+            "TimeFrame":"2018-2022",
+            "StatNow":"12.41%",
+            "StatPrevious":"12.74%",
+            "StatDifference":"2.61%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Young adults (18-24) in poverty (ACS)",
+            "TimeFrame":"2018-2022",
+            "StatNow":"12.86%",
+            "StatPrevious":"13.08%",
+            "StatDifference":"1.69%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Children under 6 in low-income families (ACS)",
+            "TimeFrame":"2018-2022",
+            "StatNow":"30.02%",
+            "StatPrevious":"30.08%",
+            "StatDifference":"0.21%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Households with a housing cost burden",
+            "TimeFrame":"2018-2022",
+            "StatNow":"51.45%",
+            "StatPrevious":"50.98%",
+            "StatDifference":"0.91%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Households with a housing cost burden",
+            "TimeFrame":"2018-2022",
+            "StatNow":"30.06%",
+            "StatPrevious":"30.06%",
+            "StatDifference":"0.00%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Low birth weight",
+            "TimeFrame":"2021",
+            "StatNow":"8.80%",
+            "StatPrevious":"8.00%",
+            "StatDifference":"10.00%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Early prenatal care",
+            "TimeFrame":"2021",
+            "StatNow":"60.60%",
+            "StatPrevious":"62.40%",
+            "StatDifference":"2.88%"
+    },
+    {
+            "Location":"Hawaii",
+            "Indicator":"Child abuse and neglect ages 0-17",
+            "TimeFrame":"2020",
+            "StatNow":"404.98%",
+            "StatPrevious":"449.53%",
+            "StatDifference":"9.91%"
     }
 ]
