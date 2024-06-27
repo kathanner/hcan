@@ -47,4 +47,41 @@
             "TimeFramePrevious":"2017-2021"
         }
     }
+] , [
+    {
+        "educationHawaii":{
+            "Indicator":"High school seniors graduating with a diploma",
+            "DataType":null,
+            "StatNow":"94.4%",
+            "StatPrevious":"93.8%",
+            "StatDifference":"0.7%",
+            "StatIncrease":true,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021"
+        }
+    },
+    {
+        "educationHawaii":{
+            "Indicator":"Percent of students who are English language learners",
+            "DataType":null,
+            "StatNow":"10.1%",
+            "StatPrevious":"9.8%",
+            "StatDifference":"3.1%",
+            "StatIncrease":true,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021"
+        }
+    },
+    {
+        "educationHawaii":{
+            "Indicator":"Percent of K-12 in special education",
+            "DataType":null,
+            "StatNow":"10.5%",
+            "StatPrevious":"10.4%",
+            "StatDifference":"1.0%",
+            "StatIncrease":true,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021"
+        }
+    }
 ]
