@@ -49,7 +49,7 @@
     {
         "educationHawaii":{
             "Indicator":"High school seniors graduating with a diploma",
-            "DataType":null,
+            "DataType":"Percent",
             "StatNow":"94.4%",
             "StatPrevious":"93.8%",
             "StatDifference":"0.7%",
@@ -61,7 +61,7 @@
     {
         "educationHawaii":{
             "Indicator":"Percent of students who are English language learners",
-            "DataType":null,
+            "DataType":"Percent",
             "StatNow":"10.1%",
             "StatPrevious":"9.8%",
             "StatDifference":"3.1%",
@@ -73,7 +73,7 @@
     {
         "educationHawaii":{
             "Indicator":"Percent of K-12 in special education",
-            "DataType":null,
+            "DataType":"Percent",
             "StatNow":"10.5%",
             "StatPrevious":"10.4%",
             "StatDifference":"1.0%",
