@@ -84,7 +84,7 @@
             "StatNow":"30.1%",
             "StatPrevious":"30.1%",
             "StatDifference":"0.0%",
-            "StatIncrease":false,
+            "StatIncrease":"flat",
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
             "HousingStatus":"Owner"
