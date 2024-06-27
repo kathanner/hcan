@@ -1,0 +1,38 @@
+[
+    {
+        "healthHawaii":{
+            "Indicator":"Low birth weight",
+            "DataType":"Percent",
+            "StatNow":"8.8%",
+            "StatPrevious":"8.0%",
+            "StatDifference":"10.0%",
+            "StatIncrease":true,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    },
+    {
+        "healthHawaii":{
+            "Indicator":"Early prenatal care",
+            "DataType":"Percent",
+            "StatNow":"60.6%",
+            "StatPrevious":"62.4%",
+            "StatDifference":"2.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    },
+    {
+        "healthHawaii":{
+            "Indicator":"Child abuse and neglect ages 0-17",
+            "DataType":"Rate",
+            "StatNow":"4.0%",
+            "StatPrevious":"4.5%",
+            "StatDifference":"9.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2020",
+            "TimeFramePrevious":"2019"
+        }
+    }
+]
