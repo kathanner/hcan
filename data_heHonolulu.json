@@ -1,0 +1,38 @@
+[
+    {
+        "healthHonolulu":{
+            "Indicator":"Child abuse and neglect ages 0-17",
+            "DataType":null,
+            "StatNow":"3.0",
+            "StatPrevious":"3.3",
+            "StatDifference":"8.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2020",
+            "TimeFramePrevious":"2019"
+        }
+    },
+    {
+        "healthHonolulu":{
+            "Indicator":"Early prenatal care",
+            "DataType":"Percent",
+            "StatNow":"63.2%",
+            "StatPrevious":"64.4%",
+            "StatDifference":"1.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    },
+    {
+        "healthHonolulu":{
+            "Indicator":"Low birth weight",
+            "DataType":"Percent",
+            "StatNow":"8.6%",
+            "StatPrevious":"8.0%",
+            "StatDifference":"7.5%",
+            "StatIncrease":true,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "healthKauai":{
+            "Indicator":"Child abuse and neglect ages 0-17",
+            "DataType":null,
+            "StatNow":"7.2",
+            "StatPrevious":"5.5",
+            "StatDifference":"31.8%",
+            "StatIncrease":true,
+            "TimeFrame":"2020",
+            "TimeFramePrevious":"2019"
+        }
+    },
+    {
+        "healthKauai":{
+            "Indicator":"Early prenatal care",
+            "DataType":"Percent",
+            "StatNow":"76.3%",
+            "StatPrevious":"72.2%",
+            "StatDifference":"5.7%",
+            "StatIncrease":true,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    },
+    {
+        "healthKauai":{
+            "Indicator":"Low birth weight",
+            "DataType":"Percent",
+            "StatNow":"8.8%",
+            "StatPrevious":"8.6%",
+            "StatDifference":"2.3%",
+            "StatIncrease":true,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    }
+]

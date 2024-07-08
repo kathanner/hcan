@@ -1,0 +1,38 @@
+[
+    {
+        "educationHonolulu":{
+            "Indicator":"High school seniors graduating with a diploma",
+            "DataType":null,
+            "StatNow":"94.9%",
+            "StatPrevious":"93.6%",
+            "StatDifference":"1.3%",
+            "StatIncrease":true,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021"
+        }
+    },
+    {
+        "educationHonolulu":{
+            "Indicator":"Percent of K-12 in special education",
+            "DataType":null,
+            "StatNow":"10.4%",
+            "StatPrevious":"10.4%",
+            "StatDifference":"0.5%",
+            "StatIncrease":true,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021"
+        }
+    },
+    {
+        "educationHonolulu":{
+            "Indicator":"Percent of students who are English language learners",
+            "DataType":null,
+            "StatNow":"10.2%",
+            "StatPrevious":"9.7%",
+            "StatDifference":"4.9%",
+            "StatIncrease":true,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021"
+        }
+    }
+]

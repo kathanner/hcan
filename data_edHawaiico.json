@@ -1,0 +1,38 @@
+[
+    {
+        "educationHawaiico":{
+            "Indicator":"High school seniors graduating with a diploma",
+            "DataType":null,
+            "StatNow":"90.4%",
+            "StatPrevious":"92.2%",
+            "StatDifference":"2.0%",
+            "StatIncrease":false,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021"
+        }
+    },
+    {
+        "educationHawaiico":{
+            "Indicator":"Percent of K-12 in special education",
+            "DataType":null,
+            "StatNow":"11.5%",
+            "StatPrevious":"11.4%",
+            "StatDifference":"0.7%",
+            "StatIncrease":true,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021"
+        }
+    },
+    {
+        "educationHawaiico":{
+            "Indicator":"Percent of students who are English language learners",
+            "DataType":null,
+            "StatNow":"10.8%",
+            "StatPrevious":"10.5%",
+            "StatDifference":"2.5%",
+            "StatIncrease":true,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021"
+        }
+    }
+]

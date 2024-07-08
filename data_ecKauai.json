@@ -1,0 +1,119 @@
+[
+    {
+        "economicsKauai":{
+            "Indicator":"Children in poverty (0-17)",
+            "DataType":null,
+            "StatNow":"11.0%",
+            "StatPrevious":"13.9%",
+            "StatDifference":"20.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsKauai":{
+            "Indicator":"Children receiving public assistance",
+            "DataType":"Percent",
+            "StatNow":"24.7%",
+            "StatPrevious":"22.6%",
+            "StatDifference":"9.7%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsKauai":{
+            "Indicator":"Children under 6 in low-income families (ACS)",
+            "DataType":"Percent",
+            "StatNow":"33.5%",
+            "StatPrevious":"35.8%",
+            "StatDifference":"6.5%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsKauai":{
+            "Indicator":"Children under 6 in poverty (ACS)",
+            "DataType":"Percent",
+            "StatNow":"12.1%",
+            "StatPrevious":"14.4%",
+            "StatDifference":"15.7%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsKauai":{
+            "Indicator":"Households with a housing cost burden",
+            "DataType":"Percent",
+            "StatNow":"41.2%",
+            "StatPrevious":"41.1%",
+            "StatDifference":"0.2%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":"Renter"
+        }
+    },
+    {
+        "economicsKauai":{
+            "Indicator":"Households with a housing cost burden",
+            "DataType":"Percent",
+            "StatNow":"30.7%",
+            "StatPrevious":"31.3%",
+            "StatDifference":"1.8%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":"Owner"
+        }
+    },
+    {
+        "economicsKauai":{
+            "Indicator":"Percent of young children with all parents in workforce",
+            "DataType":null,
+            "StatNow":"69.2%",
+            "StatPrevious":"73.1%",
+            "StatDifference":"5.3%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsKauai":{
+            "Indicator":"Unemployment rate (annual average)",
+            "DataType":"Rate",
+            "StatNow":"3.6",
+            "StatPrevious":"8.1",
+            "StatDifference":"55.6%",
+            "StatIncrease":false,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsKauai":{
+            "Indicator":"Young adults (18-24) in poverty (ACS)",
+            "DataType":"Percent",
+            "StatNow":"11.4%",
+            "StatPrevious":"13.7%",
+            "StatDifference":"16.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    }
+]
