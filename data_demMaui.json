@@ -1,0 +1,50 @@
+[
+    {
+        "demographicsMaui":{
+            "Indicator":"Percent of children in immigrant families",
+            "DataType":"Percent",
+            "StatNow":"32.4%",
+            "StatPrevious":"33.5%",
+            "StatDifference":"3.3%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsMaui":{
+            "Indicator":"Percent of families with children",
+            "DataType":"Percent",
+            "StatNow":"36.8%",
+            "StatPrevious":"36.2%",
+            "StatDifference":"1.8%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsMaui":{
+            "Indicator":"Percent of families with children that are single-parent families",
+            "DataType":"Percent",
+            "StatNow":"32.2%",
+            "StatPrevious":"29.9%",
+            "StatDifference":"7.8%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsMaui":{
+            "Indicator":"Percent of families with children that have young children",
+            "DataType":"Percent",
+            "StatNow":"38.4%",
+            "StatPrevious":"39.2%",
+            "StatDifference":"2.1%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    }
+]

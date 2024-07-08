@@ -1,0 +1,50 @@
+[
+    {
+        "demographicsKauai":{
+            "Indicator":"Percent of children in immigrant families",
+            "DataType":"Percent",
+            "StatNow":"18.0%",
+            "StatPrevious":"20.1%",
+            "StatDifference":"10.5%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsKauai":{
+            "Indicator":"Percent of families with children",
+            "DataType":"Percent",
+            "StatNow":"31.2%",
+            "StatPrevious":"32.4%",
+            "StatDifference":"3.5%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsKauai":{
+            "Indicator":"Percent of families with children that are single-parent families",
+            "DataType":"Percent",
+            "StatNow":"33.1%",
+            "StatPrevious":"33.1%",
+            "StatDifference":"0.1%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsKauai":{
+            "Indicator":"Percent of families with children that have young children",
+            "DataType":"Percent",
+            "StatNow":"38.1%",
+            "StatPrevious":"39.0%",
+            "StatDifference":"2.5%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    }
+]

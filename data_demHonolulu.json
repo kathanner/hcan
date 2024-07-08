@@ -1,0 +1,50 @@
+[
+    {
+        "demographicsHonolulu":{
+            "Indicator":"Percent of children in immigrant families",
+            "DataType":"Percent",
+            "StatNow":"29.9%",
+            "StatPrevious":"30.0%",
+            "StatDifference":"0.3%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsHonolulu":{
+            "Indicator":"Percent of families with children",
+            "DataType":"Percent",
+            "StatNow":"36.7%",
+            "StatPrevious":"37.1%",
+            "StatDifference":"1.1%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsHonolulu":{
+            "Indicator":"Percent of families with children that are single-parent families",
+            "DataType":"Percent",
+            "StatNow":"24.5%",
+            "StatPrevious":"24.1%",
+            "StatDifference":"1.9%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsHonolulu":{
+            "Indicator":"Percent of families with children that have young children",
+            "DataType":"Percent",
+            "StatNow":"42.9%",
+            "StatPrevious":"42.9%",
+            "StatDifference":"0.1%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    }
+]
