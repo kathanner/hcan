@@ -1,0 +1,50 @@
+[
+    {
+        "demographicsHawaiico":{
+            "Indicator":"Percent of children in immigrant families",
+            "DataType":"Percent",
+            "StatNow":"20.2%",
+            "StatPrevious":"21.1%",
+            "StatDifference":"4.0%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsHawaiico":{
+            "Indicator":"Percent of families with children",
+            "DataType":"Percent",
+            "StatNow":"34.5%",
+            "StatPrevious":"35.1%",
+            "StatDifference":"1.5%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsHawaiico":{
+            "Indicator":"Percent of families with children that are single-parent families",
+            "DataType":"Percent",
+            "StatNow":"38.7%",
+            "StatPrevious":"38.2%",
+            "StatDifference":"1.5%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsHawaiico":{
+            "Indicator":"Percent of families with children that have young children",
+            "DataType":"Percent",
+            "StatNow":"38.1%",
+            "StatPrevious":"41.3%",
+            "StatDifference":"7.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    }
+]
