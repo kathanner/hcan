@@ -1,0 +1,38 @@
+[
+    {
+        "healthMaui":{
+            "Indicator":"Child abuse and neglect ages 0-17",
+            "DataType":null,
+            "StatNow":"5.4",
+            "StatPrevious":"3.9",
+            "StatDifference":"39.1%",
+            "StatIncrease":true,
+            "TimeFrame":"2020",
+            "TimeFramePrevious":"2019"
+        }
+    },
+    {
+        "healthMaui":{
+            "Indicator":"Early prenatal care",
+            "DataType":"Percent",
+            "StatNow":"57.7%",
+            "StatPrevious":"67.4%",
+            "StatDifference":"14.4%",
+            "StatIncrease":false,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    },
+    {
+        "healthMaui":{
+            "Indicator":"Low birth weight",
+            "DataType":"Percent",
+            "StatNow":"8.8%",
+            "StatPrevious":"7.1%",
+            "StatDifference":"23.9%",
+            "StatIncrease":true,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    }
+]

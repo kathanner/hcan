@@ -1,0 +1,38 @@
+[
+    {
+        "healthHawaiico":{
+            "Indicator":"Child abuse and neglect ages 0-17",
+            "DataType":null,
+            "StatNow":"6.5",
+            "StatPrevious":"10.1",
+            "StatDifference":"35.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2020",
+            "TimeFramePrevious":"2019"
+        }
+    },
+    {
+        "healthHawaiico":{
+            "Indicator":"Early prenatal care",
+            "DataType":"Percent",
+            "StatNow":"42.5%",
+            "StatPrevious":"44.1%",
+            "StatDifference":"3.6%",
+            "StatIncrease":false,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    },
+    {
+        "healthHawaiico":{
+            "Indicator":"Low birth weight",
+            "DataType":"Percent",
+            "StatNow":"9.7%",
+            "StatPrevious":"8.4%",
+            "StatDifference":"15.5%",
+            "StatIncrease":true,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020"
+        }
+    }
+]

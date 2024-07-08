@@ -1,0 +1,119 @@
+[
+    {
+        "economicsMaui":{
+            "Indicator":"Children in poverty (0-17)",
+            "DataType":null,
+            "StatNow":"11.1%",
+            "StatPrevious":"13.9%",
+            "StatDifference":"20.1%",
+            "StatIncrease":false,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsMaui":{
+            "Indicator":"Children receiving public assistance",
+            "DataType":"Percent",
+            "StatNow":"23.4%",
+            "StatPrevious":"21.7%",
+            "StatDifference":"7.8%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsMaui":{
+            "Indicator":"Children under 6 in low-income families (ACS)",
+            "DataType":"Percent",
+            "StatNow":"24.7%",
+            "StatPrevious":"23.6%",
+            "StatDifference":"4.8%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsMaui":{
+            "Indicator":"Children under 6 in poverty (ACS)",
+            "DataType":"Percent",
+            "StatNow":"9.4%",
+            "StatPrevious":"11.3%",
+            "StatDifference":"16.4%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsMaui":{
+            "Indicator":"Households with a housing cost burden",
+            "DataType":"Percent",
+            "StatNow":"47.0%",
+            "StatPrevious":"47.4%",
+            "StatDifference":"0.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":"Renter"
+        }
+    },
+    {
+        "economicsMaui":{
+            "Indicator":"Households with a housing cost burden",
+            "DataType":"Percent",
+            "StatNow":"32.5%",
+            "StatPrevious":"33.2%",
+            "StatDifference":"2.2%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":"Owner"
+        }
+    },
+    {
+        "economicsMaui":{
+            "Indicator":"Percent of young children with all parents in workforce",
+            "DataType":null,
+            "StatNow":"76.7%",
+            "StatPrevious":"75.8%",
+            "StatDifference":"1.2%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsMaui":{
+            "Indicator":"Unemployment rate (annual average)",
+            "DataType":"Rate",
+            "StatNow":"3.5",
+            "StatPrevious":"7.7",
+            "StatDifference":"54.5%",
+            "StatIncrease":false,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsMaui":{
+            "Indicator":"Young adults (18-24) in poverty (ACS)",
+            "DataType":"Percent",
+            "StatNow":"11.0%",
+            "StatPrevious":"11.9%",
+            "StatDifference":"8.0%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "economicsHonolulu":{
+            "Indicator":"Children in poverty (0-17)",
+            "DataType":null,
+            "StatNow":"10.9%",
+            "StatPrevious":"11.2%",
+            "StatDifference":"2.7%",
+            "StatIncrease":false,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsHonolulu":{
+            "Indicator":"Children receiving public assistance",
+            "DataType":"Percent",
+            "StatNow":"23.5%",
+            "StatPrevious":"22.7%",
+            "StatDifference":"3.5%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsHonolulu":{
+            "Indicator":"Children under 6 in low-income families (ACS)",
+            "DataType":"Percent",
+            "StatNow":"28.4%",
+            "StatPrevious":"28.1%",
+            "StatDifference":"1.3%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsHonolulu":{
+            "Indicator":"Children under 6 in poverty (ACS)",
+            "DataType":"Percent",
+            "StatNow":"11.6%",
+            "StatPrevious":"11.4%",
+            "StatDifference":"2.0%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsHonolulu":{
+            "Indicator":"Households with a housing cost burden",
+            "DataType":"Percent",
+            "StatNow":"53.8%",
+            "StatPrevious":"53.2%",
+            "StatDifference":"1.1%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":"Renter"
+        }
+    },
+    {
+        "economicsHonolulu":{
+            "Indicator":"Households with a housing cost burden",
+            "DataType":"Percent",
+            "StatNow":"30.5%",
+            "StatPrevious":"30.3%",
+            "StatDifference":"0.8%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":"Owner"
+        }
+    },
+    {
+        "economicsHonolulu":{
+            "Indicator":"Percent of young children with all parents in workforce",
+            "DataType":null,
+            "StatNow":"63.9%",
+            "StatPrevious":"62.9%",
+            "StatDifference":"1.6%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsHonolulu":{
+            "Indicator":"Unemployment rate (annual average)",
+            "DataType":"Rate",
+            "StatNow":"3.5",
+            "StatPrevious":"5.6",
+            "StatDifference":"37.5%",
+            "StatIncrease":false,
+            "TimeFrame":"2022",
+            "TimeFramePrevious":"2021",
+            "HousingStatus":null
+        }
+    },
+    {
+        "economicsHonolulu":{
+            "Indicator":"Young adults (18-24) in poverty (ACS)",
+            "DataType":"Percent",
+            "StatNow":"12.3%",
+            "StatPrevious":"12.1%",
+            "StatDifference":"1.6%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021",
+            "HousingStatus":null
+        }
+    }
+]
