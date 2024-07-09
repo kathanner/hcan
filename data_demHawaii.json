@@ -1,1 +1,50 @@
-[{'demographicsHawaii': {'Indicator': 'Percent of children in immigrant families', 'DataType': 'Percent', 'StatNow': '28.2%', 'StatPrevious': '28.6%', 'StatDifference': '1.5%', 'StatIncrease': False, 'TimeFrame': '2018-2022', 'TimeFramePrevious': '2017-2021', 'Source': 'https://datacenter.aecf.org/data/tables/9672-of-children-in-immigrant-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18904'}}, {'demographicsHawaii': {'Indicator': 'Percent of families with children', 'DataType': 'Percent', 'StatNow': '36.1%', 'StatPrevious': '36.4%', 'StatDifference': '0.9%', 'StatIncrease': False, 'TimeFrame': '2018-2022', 'TimeFramePrevious': '2017-2021', 'Source': 'https://datacenter.aecf.org/data/tables/9282-of-families-with-children?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1607,1572,1485,1376,1201/6273/18366'}}, {'demographicsHawaii': {'Indicator': 'Percent of families with children that are single-parent families', 'DataType': 'Percent', 'StatNow': '27.8%', 'StatPrevious': '27.1%', 'StatDifference': '2.5%', 'StatIncrease': True, 'TimeFrame': '2018-2022', 'TimeFramePrevious': '2017-2021', 'Source': 'https://datacenter.aecf.org/data/tables/9285-of-families-with-children-that-are-single-parent-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1607,1572,1485,1376,1201/6273/18368'}}, {'demographicsHawaii': {'Indicator': 'Percent of families with children that have young children', 'DataType': 'Percent', 'StatNow': '41.5%', 'StatPrevious': '42.1%', 'StatDifference': '1.5%', 'StatIncrease': False, 'TimeFrame': '2018-2022', 'TimeFramePrevious': '2017-2021', 'Source': 'https://datacenter.aecf.org/data/tables/9286-of-families-with-young-children?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18369'}}]
+[
+    {
+        "demographicsHawaii":{
+            "Indicator":"Percent of children in immigrant families",
+            "DataType":"Percent",
+            "StatNow":"28.2%",
+            "StatPrevious":"28.6%",
+            "StatDifference":"1.5%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsHawaii":{
+            "Indicator":"Percent of families with children",
+            "DataType":"Percent",
+            "StatNow":"36.1%",
+            "StatPrevious":"36.4%",
+            "StatDifference":"0.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsHawaii":{
+            "Indicator":"Percent of families with children that are single-parent families",
+            "DataType":"Percent",
+            "StatNow":"27.8%",
+            "StatPrevious":"27.1%",
+            "StatDifference":"2.5%",
+            "StatIncrease":true,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    },
+    {
+        "demographicsHawaii":{
+            "Indicator":"Percent of families with children that have young children",
+            "DataType":"Percent",
+            "StatNow":"41.5%",
+            "StatPrevious":"42.1%",
+            "StatDifference":"1.5%",
+            "StatIncrease":false,
+            "TimeFrame":"2018-2022",
+            "TimeFramePrevious":"2017-2021"
+        }
+    }
+]
