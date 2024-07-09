@@ -57,7 +57,7 @@
     },
     {
         "economicsHawaii":{
-            "Indicator":"Households with a housing cost burden",
+            "Indicator":"Households with a housing cost burden (Renter)",
             "DataType":"Percent",
             "StatNow":"51.4%",
             "StatPrevious":"51.0%",
@@ -71,7 +71,7 @@
     },
     {
         "economicsHawaii":{
-            "Indicator":"Households with a housing cost burden",
+            "Indicator":"Households with a housing cost burden (Owner)",
             "DataType":"Percent",
             "StatNow":"30.1%",
             "StatPrevious":"30.1%",

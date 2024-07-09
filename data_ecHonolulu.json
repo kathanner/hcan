@@ -57,7 +57,7 @@
     },
     {
         "economicsHonolulu":{
-            "Indicator":"Households with a housing cost burden",
+            "Indicator":"Households with a housing cost burden (Renter)",
             "DataType":"Percent",
             "StatNow":"53.8%",
             "StatPrevious":"53.2%",
@@ -71,7 +71,7 @@
     },
     {
         "economicsHonolulu":{
-            "Indicator":"Households with a housing cost burden",
+            "Indicator":"Households with a housing cost burden (Owner)",
             "DataType":"Percent",
             "StatNow":"30.5%",
             "StatPrevious":"30.3%",

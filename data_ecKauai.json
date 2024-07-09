@@ -57,7 +57,7 @@
     },
     {
         "economicsKauai":{
-            "Indicator":"Households with a housing cost burden",
+            "Indicator":"Households with a housing cost burden (Renter)",
             "DataType":"Percent",
             "StatNow":"41.2%",
             "StatPrevious":"41.1%",
@@ -71,7 +71,7 @@
     },
     {
         "economicsKauai":{
-            "Indicator":"Households with a housing cost burden",
+            "Indicator":"Households with a housing cost burden (Owner)",
             "DataType":"Percent",
             "StatNow":"30.7%",
             "StatPrevious":"31.3%",

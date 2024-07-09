@@ -57,7 +57,7 @@
     },
     {
         "economicsMaui":{
-            "Indicator":"Households with a housing cost burden",
+            "Indicator":"Households with a housing cost burden (Renter)",
             "DataType":"Percent",
             "StatNow":"47.0%",
             "StatPrevious":"47.4%",
@@ -71,7 +71,7 @@
     },
     {
         "economicsMaui":{
-            "Indicator":"Households with a housing cost burden",
+            "Indicator":"Households with a housing cost burden (Owner)",
             "DataType":"Percent",
             "StatNow":"32.5%",
             "StatPrevious":"33.2%",
