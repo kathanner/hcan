@@ -8,7 +8,8 @@
             "StatDifference":"0.4%",
             "StatIncrease":true,
             "TimeFrame":"2022",
-            "TimeFramePrevious":"2021"
+            "TimeFramePrevious":"2021",
+            "Source":"https://datacenter.aecf.org/data/tables/4874-high-school-seniors-graduating-with-a-diploma?loc=13&loct=2#detailed/5/7266-7269/true/1095,2048,574,1729,37,870,573,869,36,868/any/11258"
         }
     },
     {
@@ -20,7 +21,8 @@
             "StatDifference":"4.1%",
             "StatIncrease":true,
             "TimeFrame":"2022",
-            "TimeFramePrevious":"2021"
+            "TimeFramePrevious":"2021",
+            "Source":"https://datacenter.aecf.org/data/tables/9684-of-k-12-students-in-special-education?loc=13&loct=5#detailed/5/7266-7269/true/1095,2048,574,1729,870,573,869,36,868,867/any/18923"
         }
     },
     {
@@ -32,7 +34,8 @@
             "StatDifference":"7.6%",
             "StatIncrease":true,
             "TimeFrame":"2022",
-            "TimeFramePrevious":"2021"
+            "TimeFramePrevious":"2021",
+            "Source":"https://datacenter.aecf.org/data/tables/9685-of-students-who-are-english-language-learners?loc=13&loct=5#detailed/5/7266-7269/true/1095,2048,574,1729,870,573,869,36,868,867/any/18924"
         }
     }
 ]

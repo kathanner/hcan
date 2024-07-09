@@ -1,14 +1,15 @@
 [
     {
         "healthHawaii":{
-            "Indicator":"Low birth weight",
-            "DataType":"Percent",
-            "StatNow":"8.8%",
-            "StatPrevious":"8.0%",
-            "StatDifference":"10.0%",
-            "StatIncrease":true,
-            "TimeFrame":"2021",
-            "TimeFramePrevious":"2020"
+            "Indicator":"Child abuse and neglect ages 0-17",
+            "DataType":null,
+            "StatNow":"4.0",
+            "StatPrevious":"4.5",
+            "StatDifference":"9.9%",
+            "StatIncrease":false,
+            "TimeFrame":"2020",
+            "TimeFramePrevious":"2019",
+            "Source":"https://datacenter.kidscount.org/data/tables/3806-child-abuse-and-neglect-ages-0-17?loc=13&loct=2#detailed/5/7266-7269/true/574,1729,37,871,870,573,869,36,868,867/any/13175"
         }
     },
     {
@@ -20,19 +21,21 @@
             "StatDifference":"2.9%",
             "StatIncrease":false,
             "TimeFrame":"2021",
-            "TimeFramePrevious":"2020"
+            "TimeFramePrevious":"2020",
+            "Source":"https://datacenter.aecf.org/data/tables/4533-early-prenatal-care?loc=13&loct=5#detailed/5/7266-7269/false/2048,574,1729,37,871,573,869/6273/10358"
         }
     },
     {
         "healthHawaii":{
-            "Indicator":"Child abuse and neglect ages 0-17",
-            "DataType":"Rate",
-            "StatNow":"4.0%",
-            "StatPrevious":"4.5%",
-            "StatDifference":"9.9%",
-            "StatIncrease":false,
-            "TimeFrame":"2020",
-            "TimeFramePrevious":"2019"
+            "Indicator":"Low birth weight",
+            "DataType":"Percent",
+            "StatNow":"8.8%",
+            "StatPrevious":"8.0%",
+            "StatDifference":"10.0%",
+            "StatIncrease":true,
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020",
+            "Source":"https://datacenter.aecf.org/data/tables/10282-low-birth-weight?loc=13&loct=2#detailed/5/7266-7269/true/2048,1729,573,869,36,868,867,133,38,35/6273/19910"
         }
     }
 ]

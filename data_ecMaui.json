@@ -9,7 +9,8 @@
             "StatIncrease":false,
             "TimeFrame":"2022",
             "TimeFramePrevious":"2021",
-            "HousingStatus":null
+            "HousingStatus":null,
+            "Source":"https://datacenter.aecf.org/data/tables/4864-children-in-poverty-birth-to-age-17?loc=13&loct=2#detailed/5/7266-7269/true/2048,574,1729,37,871,573,869,36,868,867/any/13286"
         }
     },
     {
@@ -22,7 +23,8 @@
             "StatIncrease":true,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null
+            "HousingStatus":null,
+            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/19050"
         }
     },
     {
@@ -35,7 +37,8 @@
             "StatIncrease":true,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null
+            "HousingStatus":null,
+            "Source":"https://datacenter.aecf.org/data/tables/9529-children-under-age-6-in-low-income-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18701"
         }
     },
     {
@@ -48,7 +51,8 @@
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null
+            "HousingStatus":null,
+            "Source":"https://datacenter.aecf.org/data/tables/9525-children-under-age-6-in-poverty?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18697"
         }
     },
     {
@@ -61,7 +65,8 @@
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "HousingStatus":"Renter"
+            "HousingStatus":"Renter",
+            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/3500,3501|6273/19562"
         }
     },
     {
@@ -74,7 +79,8 @@
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "HousingStatus":"Owner"
+            "HousingStatus":"Owner",
+            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/3500,3501|6273/19562"
         }
     },
     {
@@ -87,7 +93,8 @@
             "StatIncrease":true,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null
+            "HousingStatus":null,
+            "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/any/19229"
         }
     },
     {
@@ -100,7 +107,8 @@
             "StatIncrease":false,
             "TimeFrame":"2022",
             "TimeFramePrevious":"2021",
-            "HousingStatus":null
+            "HousingStatus":null,
+            "Source":"https://datacenter.aecf.org/data/tables/9444-unemployment-rate-annual-average?loc=13&loct=2#detailed/5/7266-7269/true/1095,2048,574,1729,870,573,869,36,868,867/6445/18579"
         }
     },
     {
@@ -113,7 +121,8 @@
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null
+            "HousingStatus":null,
+            "Source":"https://datacenter.aecf.org/data/tables/9528-young-adults-ages-18-to-24-in-poverty?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18700"
         }
     }
 ]

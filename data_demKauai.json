@@ -8,7 +8,8 @@
             "StatDifference":"10.5%",
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021"
+            "TimeFramePrevious":"2017-2021",
+            "Source":"https://datacenter.aecf.org/data/tables/9672-of-children-in-immigrant-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18904"
         }
     },
     {
@@ -20,7 +21,8 @@
             "StatDifference":"3.5%",
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021"
+            "TimeFramePrevious":"2017-2021",
+            "Source":"https://datacenter.aecf.org/data/tables/9282-of-families-with-children?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1607,1572,1485,1376,1201/6273/18366"
         }
     },
     {
@@ -32,7 +34,8 @@
             "StatDifference":"0.1%",
             "StatIncrease":true,
             "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021"
+            "TimeFramePrevious":"2017-2021",
+            "Source":"https://datacenter.aecf.org/data/tables/9285-of-families-with-children-that-are-single-parent-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1607,1572,1485,1376,1201/6273/18368"
         }
     },
     {
@@ -44,7 +47,8 @@
             "StatDifference":"2.5%",
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021"
+            "TimeFramePrevious":"2017-2021",
+            "Source":"https://datacenter.aecf.org/data/tables/9286-of-families-with-young-children?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18369"
         }
     }
 ]
