@@ -5,7 +5,7 @@
             "DataType":null,
             "StatNow":"3.2",
             "StatPrevious":"2.9",
-            "StatIncrease":false,
+            "StatIncrease":true,
             "TimeFrame":"2021",
             "TimeFramePrevious":"2020",
             "Source":"https://datacenter.aecf.org/data/tables/11680-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=5#detailed/5/7266-7269/true/2048,574/6445/22954"
