@@ -3,12 +3,11 @@
         "healthMaui":{
             "Indicator":"Child abuse and neglect ages 0-17",
             "DataType":null,
-            "StatNow":"5.4",
-            "StatPrevious":"3.9",
-            "StatDifference":"39.1%",
+            "StatNow":"4.8",
+            "StatPrevious":"5.5",
             "StatIncrease":true,
-            "TimeFrame":"2020",
-            "TimeFramePrevious":"2019",
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020",
             "Source":"https://datacenter.aecf.org/data/tables/11680-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=5#detailed/5/7266-7269/true/2048,574/6445/22954"
         }
     },
@@ -18,7 +17,6 @@
             "DataType":"Percent",
             "StatNow":"57.7%",
             "StatPrevious":"67.4%",
-            "StatDifference":"14.4%",
             "StatIncrease":false,
             "TimeFrame":"2021",
             "TimeFramePrevious":"2020",
@@ -31,7 +29,6 @@
             "DataType":"Percent",
             "StatNow":"8.8%",
             "StatPrevious":"7.1%",
-            "StatDifference":"23.9%",
             "StatIncrease":true,
             "TimeFrame":"2021",
             "TimeFramePrevious":"2020",

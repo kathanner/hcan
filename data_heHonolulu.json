@@ -3,12 +3,11 @@
         "healthHonolulu":{
             "Indicator":"Child abuse and neglect ages 0-17",
             "DataType":null,
-            "StatNow":"3.0",
-            "StatPrevious":"3.3",
-            "StatDifference":"8.9%",
+            "StatNow":"3.2",
+            "StatPrevious":"2.9",
             "StatIncrease":false,
-            "TimeFrame":"2020",
-            "TimeFramePrevious":"2019",
+            "TimeFrame":"2021",
+            "TimeFramePrevious":"2020",
             "Source":"https://datacenter.aecf.org/data/tables/11680-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=5#detailed/5/7266-7269/true/2048,574/6445/22954"
         }
     },
@@ -18,7 +17,6 @@
             "DataType":"Percent",
             "StatNow":"63.2%",
             "StatPrevious":"64.4%",
-            "StatDifference":"1.9%",
             "StatIncrease":false,
             "TimeFrame":"2021",
             "TimeFramePrevious":"2020",
@@ -31,7 +29,6 @@
             "DataType":"Percent",
             "StatNow":"8.6%",
             "StatPrevious":"8.0%",
-            "StatDifference":"7.5%",
             "StatIncrease":true,
             "TimeFrame":"2021",
             "TimeFramePrevious":"2020",
