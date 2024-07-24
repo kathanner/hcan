@@ -1,5 +1,5 @@
 <h1>HCAN Data Dashboard</h1>
-The data points displayed on the dashboard are populated from JSON files. These files are purposefully stored externally by region and category so updates can be made easily.
+The data points displayed on the dashboard are populated from the JSON files in this repo. These files are purposefully stored externally by region and category so updates can be made easily.
 <h2>Updating the dashboard data</h2>
 When new data are available, there are two methods for updating the JSON files.
 
