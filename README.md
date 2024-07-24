@@ -17,7 +17,7 @@ When new data are available, there are two methods for updating the JSON files.
   <li>Replace the file in this github repo 'kids_count_data.csv' with the new csv downloaded in step #3</li>
   <li>Commit the changes</li>
   <li>Run the jupyter notebook <a href="https://github.com/kathanner/hcan/blob/main/kc_data_json.ipynb">kc_data_json.ipynb</a> either on the cloud or locally</li>
-  <li>Copy the JSON from each command block in the jupyter notebook file into the corresponding JSON files in this repo</li>
+  <li>Copy the JSON from each command block in the jupyter notebook file into the corresponding JSON files in this repo. <a href="https://www.loom.com/share/f4e8689177a744ad85bf02b9fabb6ec9?sid=200cc6d5-d1de-489e-be6c-9c3e18b86b56" target="_blank">Example video</a></li>
   <li>Commit the changes</li>
 </ol>
 
