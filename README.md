@@ -6,18 +6,18 @@ When new data are available, there are two methods for updating the JSON files.
 <strong>Method 1. <a href="https://docs.google.com/spreadsheets/d/1Fu8wvaH2dYX3tfzBETkaeOHDT2i7hpRH9c4cQ7tFQ_c/edit?usp=sharing" target="_blank">Google Sheet</a></strong>
 <ol>
   <li>Update the columns A-G</li>
-  <li>Check the blue columns for data points in the most recent year</li>
+  <li>Check the blue columns for data points in the most recent year for each combination of indicator + location</li>
   <ul>
-    <li>If there is not data in associated with the indicator + location section, adjust the formula in Column K in the identified indicator rows only.</li>
+    <li>If there is not data associated with the indicator + location section, adjust the formula in Column K in the identified indicator rows only</li>
     <li>Highlight these rows to run a find and replace</li>
     <li>Use the replace feature (with 'also search within formlas' checked)</li>
     <li>Find this formula in the highlighted rows only: '=iferror(if(J22=(year(NOW())-4),F22,if(D22=(year(NOW())-4),F22,"")),"")' and replace the integer in this string '(year(NOW())-4)' <br />note: This searches for the current year minus a number. For example, the current year is 2024 and the formula subtracts 4 from this to locate the year 2020 in the highlighted data.</li>
   </ul>
   <li>Export as a cvs and rename to 'kids_count_data.csv'</li>
-  <li>Replace the file in this github repo 'kids_count_data.csv' with the new csv downloaded in step #3</li>
+  <li>Replace the file in this github repo <a href="https://github.com/kathanner/hcan/blob/main/kids_count_data.csv">kids_count_data.csv</a> with the new csv downloaded in step #3</li>
   <li>Commit the changes</li>
   <li>Run the jupyter notebook <a href="https://github.com/kathanner/hcan/blob/main/kc_data_json.ipynb">kc_data_json.ipynb</a> either on the cloud or locally</li>
-  <li>Copy the JSON from each command block in the jupyter notebook file into the corresponding JSON files in this repo. <a href="https://www.loom.com/share/f4e8689177a744ad85bf02b9fabb6ec9?sid=200cc6d5-d1de-489e-be6c-9c3e18b86b56" target="_blank">Example video</a></li>
+  <li>Copy the JSON output from each cell block in the jupyter notebook file and paste into the corresponding JSON files in this repo. <a href="https://www.loom.com/share/f4e8689177a744ad85bf02b9fabb6ec9?sid=200cc6d5-d1de-489e-be6c-9c3e18b86b56" target="_blank">Example video</a></li>
   <li>Commit the changes</li>
 </ol>
 
@@ -99,6 +99,19 @@ When new data are available, there are two methods for updating the JSON files.
   </ul>
       </td>
       </tr>
-  <li>Modify the variables</li>
+  <li>Modify the values</li>
+  <ul>
+    <li>note: do not change the names of following keys. If these are changed, the data mapping will not be pulled by the javaScript.</li>
+    <ul>
+      <li>Indicator</li>
+        <li>DataType</li>
+        <li>StatNow</li>
+        <li>StatPrevious</li>
+        <li>StatIncrease</li>
+        <li>TimeFrame</li>
+        <li>TimeFramePrevious</li>
+        <li>Source</li>
+    </ul>
+  </ul>
   <li>Commit changes in GitHub</li>
 </ol>
