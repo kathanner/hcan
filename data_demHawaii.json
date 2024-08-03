@@ -8,7 +8,7 @@
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "Source":"https://datacenter.aecf.org/data/tables/11680-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=2#detailed/2/any/false/2048,574/6445/22954"
+            "Source":"https://datacenter.aecf.org/data/tables/9672-of-children-in-immigrant-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18904"
         }
     },
     {
@@ -20,7 +20,7 @@
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "Source":"https://datacenter.aecf.org/data/tables/9527-children-under-age-18-in-poverty?loc=13&loct=2#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18699"
+            "Source":"https://datacenter.aecf.org/data/tables/9282-of-families-with-children?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1607,1572,1485,1376,1201/6273/18366"
         }
     },
     {
@@ -32,7 +32,7 @@
             "StatIncrease":true,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=5#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19050"
+            "Source":"https://datacenter.aecf.org/data/tables/9285-of-families-with-children-that-are-single-parent-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1607,1572,1485,1376,1201/6273/18368"
         }
     },
     {
@@ -44,7 +44,7 @@
             "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
-            "Source":"https://datacenter.aecf.org/data/tables/9529-children-under-age-6-in-low-income-families?loc=13&loct=5#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18701"
+            "Source":"https://datacenter.aecf.org/data/tables/9286-of-families-with-young-children?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18369"
         }
     }
 ]
