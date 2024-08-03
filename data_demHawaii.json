@@ -5,7 +5,7 @@
             "DataType":"Percent",
             "StatNow":"28.2%",
             "StatPrevious":"28.6%",
-            "StatIncrease":"FALSE",
+            "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
             "Source":"https://datacenter.aecf.org/data/tables/11680-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=2#detailed/2/any/false/2048,574/6445/22954"
@@ -17,7 +17,7 @@
             "DataType":"Percent",
             "StatNow":"36.1%",
             "StatPrevious":"36.4%",
-            "StatIncrease":"FALSE",
+            "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
             "Source":"https://datacenter.aecf.org/data/tables/9527-children-under-age-18-in-poverty?loc=13&loct=2#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18699"
@@ -29,7 +29,7 @@
             "DataType":"Percent",
             "StatNow":"27.8%",
             "StatPrevious":"27.1%",
-            "StatIncrease":"TRUE",
+            "StatIncrease":true,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
             "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=5#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19050"
@@ -41,7 +41,7 @@
             "DataType":"Percent",
             "StatNow":"41.5%",
             "StatPrevious":"42.1%",
-            "StatIncrease":"FALSE",
+            "StatIncrease":false,
             "TimeFrame":"2018-2022",
             "TimeFramePrevious":"2017-2021",
             "Source":"https://datacenter.aecf.org/data/tables/9529-children-under-age-6-in-low-income-families?loc=13&loct=5#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18701"
