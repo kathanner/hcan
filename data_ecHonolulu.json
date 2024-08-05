@@ -1,119 +1,101 @@
 [
     {
         "economicsHonolulu":{
-            "Indicator":"Children in poverty (0-17)",
-            "DataType":null,
-            "StatNow":"10.9%",
-            "StatPrevious":"11.2%",
-            "StatIncrease":false,
-            "TimeFrame":"2022",
-            "TimeFramePrevious":"2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/4864-children-in-poverty-birth-to-age-17?loc=13&loct=2#detailed/5/7266-7269/true/2048,574,1729,37,871,573,869,36,868,867/any/13286"
+            "Indicator":"Children in poverty (birth to age 17)",
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
+            "Current":"10.9%",
+            "Previous":"11.2%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9527-children-under-age-18-in-poverty?loc=13&loct=2#detailed/5/7266/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18699"
         }
     },
     {
         "economicsHonolulu":{
             "Indicator":"Children receiving public assistance",
-            "DataType":"Percent",
-            "StatNow":"23.5%",
-            "StatPrevious":"22.7%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/19050"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"23.5%",
+            "Previous":"22.7%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=5#detailed/5/7266/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19050"
         }
     },
     {
         "economicsHonolulu":{
-            "Indicator":"Children under 6 in low-income families (ACS)",
-            "DataType":"Percent",
-            "StatNow":"28.4%",
-            "StatPrevious":"28.1%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9529-children-under-age-6-in-low-income-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18701"
+            "Indicator":"Children under age 6 in low-income families",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"28.4%",
+            "Previous":"28.1%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9529-children-under-age-6-in-low-income-families?loc=13&loct=5#detailed/5/7266/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18701"
         }
     },
     {
         "economicsHonolulu":{
-            "Indicator":"Children under 6 in poverty (ACS)",
-            "DataType":"Percent",
-            "StatNow":"11.6%",
-            "StatPrevious":"11.4%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9525-children-under-age-6-in-poverty?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18697"
+            "Indicator":"Children under age 6 in poverty",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"11.6%",
+            "Previous":"11.4%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9525-children-under-age-6-in-poverty?loc=13&loct=5#detailed/5/7266/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18697"
         }
     },
     {
         "economicsHonolulu":{
-            "Indicator":"Households with a housing cost burden (Renter)",
-            "DataType":"Percent",
-            "StatNow":"53.8%",
-            "StatPrevious":"53.2%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":"Renter",
-            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/3500,3501|6273/19562"
+            "Indicator":"Households with a housing cost burden (owner)",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"30.5%",
+            "Previous":"30.3%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7266/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/3500,3501|6273/19562"
         }
     },
     {
         "economicsHonolulu":{
-            "Indicator":"Households with a housing cost burden (Owner)",
-            "DataType":"Percent",
-            "StatNow":"30.5%",
-            "StatPrevious":"30.3%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":"Owner",
-            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/3500,3501|6273/19562"
+            "Indicator":"Households with a housing cost burden (renter)",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"53.8%",
+            "Previous":"53.2%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7266/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/3500,3501|6273/19562"
         }
     },
     {
         "economicsHonolulu":{
             "Indicator":"Percent of young children with all parents in workforce",
-            "DataType":null,
-            "StatNow":"63.9%",
-            "StatPrevious":"62.9%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/any/19229"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"63.9%",
+            "Previous":"62.9%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7266/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/any/19229"
         }
     },
     {
         "economicsHonolulu":{
             "Indicator":"Unemployment rate (annual average)",
-            "DataType":"Rate",
-            "StatNow":"3.5",
-            "StatPrevious":"5.6",
-            "StatIncrease":false,
-            "TimeFrame":"2022",
-            "TimeFramePrevious":"2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9444-unemployment-rate-annual-average?loc=13&loct=2#detailed/5/7266-7269/true/1095,2048,574,1729,870,573,869,36,868,867/6445/18579"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"3.5",
+            "Previous":"560.0%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9444-unemployment-rate-annual-average?loc=13&loct=2#detailed/5/7266/false/1095,2048,574,1729,37,871,870,573,869,36/6445/18579"
         }
     },
     {
         "economicsHonolulu":{
-            "Indicator":"Young adults (18-24) in poverty (ACS)",
-            "DataType":"Percent",
-            "StatNow":"12.3%",
-            "StatPrevious":"12.1%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9528-young-adults-ages-18-to-24-in-poverty?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18700"
+            "Indicator":"Young adults (ages 18 to 24) in poverty",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"12.3%",
+            "Previous":"12.1%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9528-young-adults-ages-18-to-24-in-poverty?loc=13&loct=2#detailed/5/7266/false/2543,2454,2026,1983,1692,1691,1572,1485,1376,1201/6273/18700"
         }
     }
 ]

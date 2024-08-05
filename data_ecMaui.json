@@ -1,119 +1,101 @@
 [
     {
         "economicsMaui":{
-            "Indicator":"Children in poverty (0-17)",
-            "DataType":null,
-            "StatNow":"11.1%",
-            "StatPrevious":"13.9%",
-            "StatIncrease":false,
-            "TimeFrame":"2022",
-            "TimeFramePrevious":"2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/4864-children-in-poverty-birth-to-age-17?loc=13&loct=2#detailed/5/7266-7269/true/2048,574,1729,37,871,573,869,36,868,867/any/13286"
+            "Indicator":"Children in poverty (birth to age 17)",
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
+            "Current":"11.1%",
+            "Previous":"13.9%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9527-children-under-age-18-in-poverty?loc=13&loct=2#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18699"
         }
     },
     {
         "economicsMaui":{
             "Indicator":"Children receiving public assistance",
-            "DataType":"Percent",
-            "StatNow":"23.4%",
-            "StatPrevious":"21.7%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/19050"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"23.4%",
+            "Previous":"21.7%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=5#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19050"
         }
     },
     {
         "economicsMaui":{
-            "Indicator":"Children under 6 in low-income families (ACS)",
-            "DataType":"Percent",
-            "StatNow":"24.7%",
-            "StatPrevious":"23.6%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9529-children-under-age-6-in-low-income-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18701"
+            "Indicator":"Children under age 6 in low-income families",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"24.7%",
+            "Previous":"23.6%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9529-children-under-age-6-in-low-income-families?loc=13&loct=5#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18701"
         }
     },
     {
         "economicsMaui":{
-            "Indicator":"Children under 6 in poverty (ACS)",
-            "DataType":"Percent",
-            "StatNow":"9.4%",
-            "StatPrevious":"11.3%",
-            "StatIncrease":false,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9525-children-under-age-6-in-poverty?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18697"
+            "Indicator":"Children under age 6 in poverty",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"9.4%",
+            "Previous":"11.3%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9525-children-under-age-6-in-poverty?loc=13&loct=5#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18697"
         }
     },
     {
         "economicsMaui":{
-            "Indicator":"Households with a housing cost burden (Renter)",
-            "DataType":"Percent",
-            "StatNow":"47.0%",
-            "StatPrevious":"47.4%",
-            "StatIncrease":false,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":"Renter",
-            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/3500,3501|6273/19562"
+            "Indicator":"Households with a housing cost burden (owner)",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"32.5%",
+            "Previous":"33.2%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/3500,3501|6273/19562"
         }
     },
     {
         "economicsMaui":{
-            "Indicator":"Households with a housing cost burden (Owner)",
-            "DataType":"Percent",
-            "StatNow":"32.5%",
-            "StatPrevious":"33.2%",
-            "StatIncrease":false,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":"Owner",
-            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/3500,3501|6273/19562"
+            "Indicator":"Households with a housing cost burden (renter)",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"47.0%",
+            "Previous":"47.4%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/3500,3501|6273/19562"
         }
     },
     {
         "economicsMaui":{
             "Indicator":"Percent of young children with all parents in workforce",
-            "DataType":null,
-            "StatNow":"76.7%",
-            "StatPrevious":"75.8%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/any/19229"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"76.7%",
+            "Previous":"75.8%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/any/19229"
         }
     },
     {
         "economicsMaui":{
             "Indicator":"Unemployment rate (annual average)",
-            "DataType":"Rate",
-            "StatNow":"3.5",
-            "StatPrevious":"7.7",
-            "StatIncrease":false,
-            "TimeFrame":"2022",
-            "TimeFramePrevious":"2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9444-unemployment-rate-annual-average?loc=13&loct=2#detailed/5/7266-7269/true/1095,2048,574,1729,870,573,869,36,868,867/6445/18579"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"3.5",
+            "Previous":"770.0%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9444-unemployment-rate-annual-average?loc=13&loct=2#detailed/5/7269/false/1095,2048,574,1729,37,871,870,573,869,36/6445/18579"
         }
     },
     {
         "economicsMaui":{
-            "Indicator":"Young adults (18-24) in poverty (ACS)",
-            "DataType":"Percent",
-            "StatNow":"11.0%",
-            "StatPrevious":"11.9%",
-            "StatIncrease":false,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "HousingStatus":null,
-            "Source":"https://datacenter.aecf.org/data/tables/9528-young-adults-ages-18-to-24-in-poverty?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18700"
+            "Indicator":"Young adults (ages 18 to 24) in poverty",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"11.0%",
+            "Previous":"11.9%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9528-young-adults-ages-18-to-24-in-poverty?loc=13&loct=2#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1572,1485,1376,1201/6273/18700"
         }
     }
 ]

@@ -1,38 +1,35 @@
 [
     {
         "healthKauai":{
-            "Indicator":"Child abuse and neglect ages 0-17",
-            "DataType":null,
-            "StatNow":"8.0",
-            "StatPrevious":"7.1",
-            "StatIncrease":true,
-            "TimeFrame":"2021",
-            "TimeFramePrevious":"2020",
-            "Source":"https://datacenter.aecf.org/data/tables/11680-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=5#detailed/5/7266-7269/true/2048,574/6445/22954"
+            "Indicator":"Child abuse and neglect (birth to age 17)",
+            "CurrentYear":"2021",
+            "PreviousYear":"2020",
+            "Current":"8",
+            "Previous":"7.1",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/11680-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=2#detailed/5/7268/false/2048,574/6445/22954"
         }
     },
     {
         "healthKauai":{
             "Indicator":"Early prenatal care",
-            "DataType":"Percent",
-            "StatNow":"76.3%",
-            "StatPrevious":"72.2%",
-            "StatIncrease":true,
-            "TimeFrame":"2021",
-            "TimeFramePrevious":"2020",
-            "Source":"https://datacenter.aecf.org/data/tables/4533-early-prenatal-care?loc=13&loct=5#detailed/5/7266-7269/false/2048,574,1729,37,871,573,869/6273/10358"
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
+            "Current":"74.9%",
+            "Previous":"76.3%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/4533-early-prenatal-care?loc=13&loct=2#detailed/5/7268/false/1095,2048,574,1729,37,871,870,573,869/6273/10358"
         }
     },
     {
         "healthKauai":{
             "Indicator":"Low birth weight",
-            "DataType":"Percent",
-            "StatNow":"8.8%",
-            "StatPrevious":"8.6%",
-            "StatIncrease":true,
-            "TimeFrame":"2021",
-            "TimeFramePrevious":"2020",
-            "Source":"https://datacenter.aecf.org/data/tables/10282-low-birth-weight?loc=13&loct=2#detailed/5/7266-7269/true/2048,1729,573,869,36,868,867,133,38,35/6273/19910"
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
+            "Current":"6.2%",
+            "Previous":"8.8%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/10282-low-birth-weight?loc=13&loct=2#detailed/5/7268/false/1095,2048,574,1729,37,871,870,573,869,36/6273/19910"
         }
     }
 ]

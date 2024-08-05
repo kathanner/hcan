@@ -2,49 +2,45 @@
     {
         "demographicsHawaiico":{
             "Indicator":"Percent of children in immigrant families",
-            "DataType":"Percent",
-            "StatNow":"20.2%",
-            "StatPrevious":"21.1%",
-            "StatIncrease":false,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "Source":"https://datacenter.aecf.org/data/tables/9672-of-children-in-immigrant-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18904"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"20.2%",
+            "Previous":"21.1%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9672-of-children-in-immigrant-families?loc=13&loct=2#detailed/5/7267/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18904"
         }
     },
     {
         "demographicsHawaiico":{
             "Indicator":"Percent of families with children",
-            "DataType":"Percent",
-            "StatNow":"34.5%",
-            "StatPrevious":"35.1%",
-            "StatIncrease":false,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "Source":"https://datacenter.aecf.org/data/tables/9282-of-families-with-children?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1607,1572,1485,1376,1201/6273/18366"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"34.5%",
+            "Previous":"35.1%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9282-of-families-with-children?loc=13&loct=2#detailed/5/7267/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18366"
         }
     },
     {
         "demographicsHawaiico":{
             "Indicator":"Percent of families with children that are single-parent families",
-            "DataType":"Percent",
-            "StatNow":"38.7%",
-            "StatPrevious":"38.2%",
-            "StatIncrease":true,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "Source":"https://datacenter.aecf.org/data/tables/9285-of-families-with-children-that-are-single-parent-families?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1607,1572,1485,1376,1201/6273/18368"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"38.7%",
+            "Previous":"38.2%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9285-of-families-with-children-that-are-single-parent-families?loc=13&loct=2#detailed/5/7267/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18368"
         }
     },
     {
         "demographicsHawaiico":{
             "Indicator":"Percent of families with children that have young children",
-            "DataType":"Percent",
-            "StatNow":"38.1%",
-            "StatPrevious":"41.3%",
-            "StatIncrease":false,
-            "TimeFrame":"2018-2022",
-            "TimeFramePrevious":"2017-2021",
-            "Source":"https://datacenter.aecf.org/data/tables/9286-of-families-with-young-children?loc=13&loct=2#detailed/5/7266-7269/true/2454,2026,1983,1692,1691,1572,1485,1376,1201,1074/6273/18369"
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"38.1%",
+            "Previous":"41.3%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9286-of-families-with-children-that-have-young-children?loc=13&loct=2#detailed/5/7267/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18369"
         }
     }
 ]

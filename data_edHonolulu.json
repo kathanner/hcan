@@ -2,37 +2,34 @@
     {
         "educationHonolulu":{
             "Indicator":"High school seniors graduating with a diploma",
-            "DataType":null,
-            "StatNow":"94.9%",
-            "StatPrevious":"93.6%",
-            "StatIncrease":true,
-            "TimeFrame":"2022",
-            "TimeFramePrevious":"2021",
-            "Source":"https://datacenter.aecf.org/data/tables/4874-high-school-seniors-graduating-with-a-diploma?loc=13&loct=2#detailed/5/7266-7269/true/1095,2048,574,1729,37,870,573,869,36,868/any/11258"
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
+            "Current":"94.9%",
+            "Previous":"93.6%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/4874-high-school-seniors-graduating-with-a-diploma?loc=13&loct=2#detailed/5/7266/false/1095,2048,574,1729,37,871,870,573,869,36/any/11258"
         }
     },
     {
         "educationHonolulu":{
-            "Indicator":"Percent of K-12 in special education",
-            "DataType":null,
-            "StatNow":"10.4%",
-            "StatPrevious":"10.4%",
-            "StatIncrease":"flat",
-            "TimeFrame":"2022",
-            "TimeFramePrevious":"2021",
-            "Source":"https://datacenter.aecf.org/data/tables/9684-of-k-12-students-in-special-education?loc=13&loct=5#detailed/5/7266-7269/true/1095,2048,574,1729,870,573,869,36,868,867/any/18923"
+            "Indicator":"Percent of K-12 students in special education",
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
+            "Current":"10.4%",
+            "Previous":"10.4%",
+            "Change":"flat",
+            "Source":"https://datacenter.aecf.org/data/tables/9684-of-k-12-students-in-special-education?loc=13&loct=2#detailed/5/7266/false/1095,2048,574,1729,37,871,870,573,869,36/any/18923"
         }
     },
     {
         "educationHonolulu":{
             "Indicator":"Percent of students who are English language learners",
-            "DataType":null,
-            "StatNow":"10.2%",
-            "StatPrevious":"9.7%",
-            "StatIncrease":true,
-            "TimeFrame":"2022",
-            "TimeFramePrevious":"2021",
-            "Source":"https://datacenter.aecf.org/data/tables/9685-of-students-who-are-english-language-learners?loc=13&loct=5#detailed/5/7266-7269/true/1095,2048,574,1729,870,573,869,36,868,867/any/18924"
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
+            "Current":"10.2%",
+            "Previous":"9.7%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9685-of-students-who-are-english-language-learners?loc=13&loct=2#detailed/5/7266/false/1095,2048,574,1729,37,871,870,573,869,36/any/18924"
         }
     }
 ]
