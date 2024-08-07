@@ -7,7 +7,7 @@
             "Current":"12.1%",
             "Previous":"12.9%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9527-children-under-age-18-in-poverty?loc=13&loct=2#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18699"
+            "Source":"https://datacenter.aecf.org/data/tables/4864-children-in-poverty-birth-to-age-17?loc=13&loct=2#detailed/2/any/false/1095,2048,574,1729,37,871,870,573,869,36/any/13286"
         }
     },
     {
@@ -81,8 +81,8 @@
             "Indicator":"Unemployment rate (annual average)",
             "CurrentYear":"2018-2022",
             "PreviousYear":"2017-2021",
-            "Current":"3.5",
-            "Previous":"600.0%",
+            "Current":"3.5%",
+            "Previous":"6.0%",
             "Change":"down",
             "Source":"https://datacenter.aecf.org/data/tables/9444-unemployment-rate-annual-average?loc=13&loct=2#detailed/2/any/false/1095,2048,574,1729,37,871,870,573,869,36/6445/18579"
         }
