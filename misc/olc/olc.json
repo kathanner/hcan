@@ -16,7 +16,8 @@
   },
   {
     "Name": "Christen Zulli",
-    "Description HTML": "<p>Bio coming soon.</p>\n"
+    "Description HTML": "<p>Bio coming soon.</p>\n",
+    "cached_thumbnail_url": "https://raw.githubusercontent.com/kathanner/hcan/main/misc/olc/hcan_logo.png"
   },
   {
     "Name": "Gail Abrena-Agas",
@@ -35,7 +36,8 @@
   },
   {
     "Name": "Joell Edwards",
-    "Description HTML": "<p>Bio coming soon.</p>\n"
+    "Description HTML": "<p>Bio coming soon.</p>\n",
+    "cached_thumbnail_url": "https://raw.githubusercontent.com/kathanner/hcan/main/misc/olc/hcan_logo.png"
   },
   {
     "Name": "Kristi Chinen",
@@ -69,6 +71,7 @@
   },
   {
     "Name": "Zane Lacaden",
-    "Description HTML": "<p>Bio coming soon.</p>\n"
+    "Description HTML": "<p>Bio coming soon.</p>\n",
+    "cached_thumbnail_url": "https://raw.githubusercontent.com/kathanner/hcan/main/misc/olc/hcan_logo.png"
   }
 ]
