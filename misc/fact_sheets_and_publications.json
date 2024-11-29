@@ -916,6 +916,7 @@
          "Health"
       ],
       "Description": "Hawai‘i’s low student reading and math scores and attendance rates are hampering their ability to be prepared for high-skill occupations when they reach adulthood\n",
+      "Description HTML": "<p>Hawai‘i’s low student reading and math scores and attendance rates are hampering their ability to be prepared for high-skill occupations when they reach adulthood</p>\n",
       "Featured": true,
       "cached_thumbnail_url": "https://raw.githubusercontent.com/kathanner/hcan/a8f747d9070fe2a6b7143266d55db018ae6779b4/misc/hcan_2024report_ig.jpg"
    }
