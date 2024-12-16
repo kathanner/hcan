@@ -1,17 +1,6 @@
 [
     {
         "economicsHawaiico":{
-            "Indicator":"Children in poverty (birth to age 17)",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
-            "Current":"18.8%",
-            "Previous":"19.8%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/4864-children-in-poverty-birth-to-age-17?loc=13&loct=2#detailed/5/7267/false/1095,2048,574,1729,37,871,870,573,869,36/any/13286"
-        }
-    },
-    {
-        "economicsHawaiico":{
             "Indicator":"Children receiving public assistance",
             "CurrentYear":"2018-2022",
             "PreviousYear":"2017-2021",
@@ -74,28 +63,6 @@
             "Previous":"67.5%",
             "Change":"up",
             "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7267/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/any/19229"
-        }
-    },
-    {
-        "economicsHawaiico":{
-            "Indicator":"Unemployment rate (annual average)",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"3.6%",
-            "Previous":"5.8%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9444-unemployment-rate-annual-average?loc=13&loct=2#detailed/5/7267/false/1095,2048,574,1729,37,871,870,573,869,36/6445/18579"
-        }
-    },
-    {
-        "economicsHawaiico":{
-            "Indicator":"Young adults (ages 18 to 24) in poverty",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"18.0%",
-            "Previous":"19.3%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9528-young-adults-ages-18-to-24-in-poverty?loc=13&loct=2#detailed/5/7267/false/2543,2454,2026,1983,1692,1691,1572,1485,1376,1201/6273/18700"
         }
     }
 ]
