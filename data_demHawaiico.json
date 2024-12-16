@@ -23,17 +23,6 @@
     },
     {
         "demographicsHawaiico":{
-            "Indicator":"Percent of families with children that are single-parent families",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"38.7%",
-            "Previous":"38.2%",
-            "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9285-of-families-with-children-that-are-single-parent-families?loc=13&loct=2#detailed/5/7267/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18368"
-        }
-    },
-    {
-        "demographicsHawaiico":{
             "Indicator":"Percent of families with children that have young children",
             "CurrentYear":"2018-2022",
             "PreviousYear":"2017-2021",
