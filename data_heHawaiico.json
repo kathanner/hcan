@@ -1,9 +1,31 @@
 [
     {
         "healthHawaiico":{
+            "Indicator":"Birth to resident teens",
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
+            "Current":"1570.0%",
+            "Previous":"1620.0%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9554-births-to-resident-teens-ages-15-to-19?loc=13&loct=5#detailed/5/7267/false/1095,2048,574,1729,37,871,870,573,869,36/6445/22056"
+        }
+    },
+    {
+        "healthHawaiico":{
+            "Indicator":"Children with health insurance",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"97.1%",
+            "Previous":"97.1%",
+            "Change":"flat",
+            "Source":"https://datacenter.aecf.org/data/tables/10406-of-children-with-health-insurance?loc=13&loct=5#detailed/5/7267/false/2543,2454,2026,1983,1692,1691/6273/20092"
+        }
+    },
+    {
+        "healthHawaiico":{
             "Indicator":"Child abuse and neglect (birth to age 17)",
-            "CurrentYear":"2021 rate per 1,000",
-            "PreviousYear":"2020",
+            "CurrentYear":"2022 rate per 1,000",
+            "PreviousYear":"2021",
             "Current":"10.1",
             "Previous":"6.5",
             "Change":"up",
@@ -13,8 +35,8 @@
     {
         "healthHawaiico":{
             "Indicator":"Early prenatal care",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
             "Current":"45.5%",
             "Previous":"42.5%",
             "Change":"up",
@@ -24,8 +46,8 @@
     {
         "healthHawaiico":{
             "Indicator":"Low birth weight",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
             "Current":"8.7%",
             "Previous":"9.7%",
             "Change":"down",
