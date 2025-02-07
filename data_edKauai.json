@@ -2,8 +2,8 @@
     {
         "educationKauai":{
             "Indicator":"High school seniors graduating with a diploma",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
             "Current":"97.1%",
             "Previous":"96.7%",
             "Change":"up",
@@ -13,8 +13,8 @@
     {
         "educationKauai":{
             "Indicator":"Percent of K-12 students in special education",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
             "Current":"9.8%",
             "Previous":"9.5%",
             "Change":"up",
@@ -24,12 +24,23 @@
     {
         "educationKauai":{
             "Indicator":"Percent of students who are English language learners",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
             "Current":"7.5%",
             "Previous":"7.0%",
             "Change":"up",
             "Source":"https://datacenter.aecf.org/data/tables/9685-of-students-who-are-english-language-learners?loc=13&loct=2#detailed/5/7268/false/1095,2048,574,1729,37,871,870,573,869,36/any/18924"
+        }
+    },
+    {
+        "educationKauai":{
+            "Indicator":"On-time graduation",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
+            "Current":"89.6%",
+            "Previous":"92.8%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/4591-on-time-graduation?loc=13&loct=2#detailed/5/7268/false/2545,1095,2048,574,1729,37,871,870,573,869/any/10606"
         }
     }
 ]

@@ -2,8 +2,8 @@
     {
         "educationHawaii":{
             "Indicator":"High school seniors graduating with a diploma",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
             "Current":"94.4%",
             "Previous":"93.7%",
             "Change":"up",
@@ -13,8 +13,8 @@
     {
         "educationHawaii":{
             "Indicator":"Percent of K-12 students in special education",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
             "Current":"10.5%",
             "Previous":"10.4%",
             "Change":"up",
@@ -24,12 +24,23 @@
     {
         "educationHawaii":{
             "Indicator":"Percent of students who are English language learners",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
             "Current":"10.1%",
             "Previous":"9.8%",
             "Change":"up",
             "Source":"https://datacenter.aecf.org/data/tables/9685-of-students-who-are-english-language-learners?loc=13&loct=2#detailed/2/any/false/1095,2048,574,1729,37,871,870,573,869,36/any/18924"
+        }
+    },
+    {
+        "educationHawaii":{
+            "Indicator":"On-time graduation",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
+            "Current":"85.8%",
+            "Previous":"85.9%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/4591-on-time-graduation?loc=13&loct=2#detailed/2/any/false/2545,1095,2048,574,1729,37,871,870,573,869/any/10606"
         }
     }
 ]
