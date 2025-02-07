@@ -1,17 +1,6 @@
 [
     {
         "economicsMaui":{
-            "Indicator":"Children in poverty (birth to age 17)",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
-            "Current":"11.1%",
-            "Previous":"13.9%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/4864-children-in-poverty-birth-to-age-17?loc=13&loct=2#detailed/5/7269/false/1095,2048,574,1729,37,871,870,573,869,36/any/13286"
-        }
-    },
-    {
-        "economicsMaui":{
             "Indicator":"Children receiving public assistance",
             "CurrentYear":"2018-2022",
             "PreviousYear":"2017-2021",
@@ -74,28 +63,6 @@
             "Previous":"75.8%",
             "Change":"up",
             "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/any/19229"
-        }
-    },
-    {
-        "economicsMaui":{
-            "Indicator":"Unemployment rate (annual average)",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"3.5%",
-            "Previous":"7.7%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9444-unemployment-rate-annual-average?loc=13&loct=2#detailed/5/7269/false/1095,2048,574,1729,37,871,870,573,869,36/6445/18579"
-        }
-    },
-    {
-        "economicsMaui":{
-            "Indicator":"Young adults (ages 18 to 24) in poverty",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"11.0%",
-            "Previous":"11.9%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9528-young-adults-ages-18-to-24-in-poverty?loc=13&loct=2#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1572,1485,1376,1201/6273/18700"
         }
     }
 ]
