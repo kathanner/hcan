@@ -1,6 +1,17 @@
 [
     {
         "economicsKauai":{
+            "Indicator":"Teens ages 16-19 not attending school/nnot working",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"7.1%",
+            "Previous":"8.9%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9792-teens-ages-16-to-19-not-attending-school-not-working?loc=13&loct=2#detailed/5/7268/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19067"
+        }
+    },
+    {
+        "economicsKauai":{
             "Indicator":"Children receiving public assistance",
             "CurrentYear":"2018-2022",
             "PreviousYear":"2017-2021",
@@ -12,24 +23,24 @@
     },
     {
         "economicsKauai":{
-            "Indicator":"Children under age 6 in low-income families",
+            "Indicator":"% children w/no parents in workforce",
             "CurrentYear":"2018-2022",
             "PreviousYear":"2017-2021",
-            "Current":"33.5%",
-            "Previous":"35.8%",
+            "Current":"5.8%",
+            "Previous":"6.2%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9529-children-under-age-6-in-low-income-families?loc=13&loct=5#detailed/5/7268/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18701"
+            "Source":"https://datacenter.aecf.org/data/tables/9897-of-children-with-no-parents-in-workforce?loc=13&loct=2#detailed/5/7268/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19227"
         }
     },
     {
         "economicsKauai":{
-            "Indicator":"Children under age 6 in poverty",
+            "Indicator":"Children under 18 in poverty",
             "CurrentYear":"2018-2022",
             "PreviousYear":"2017-2021",
-            "Current":"12.1%",
-            "Previous":"14.4%",
+            "Current":"10.6%",
+            "Previous":"11.6%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9525-children-under-age-6-in-poverty?loc=13&loct=5#detailed/5/7268/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18697"
+            "Source":"https://datacenter.aecf.org/data/tables/9527-children-under-age-18-in-poverty?loc=13&loct=2#detailed/5/7268/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18699"
         }
     },
     {
@@ -63,6 +74,17 @@
             "Previous":"73.1%",
             "Change":"down",
             "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7268/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/any/19229"
+        }
+    },
+    {
+        "economicsKauai":{
+            "Indicator":"Children under 18 in low-income families",
+            "CurrentYear":"2018-2022",
+            "PreviousYear":"2017-2021",
+            "Current":"30.7%",
+            "Previous":"31.2%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9531-children-under-age-18-in-low-income-families?loc=13&loct=5#detailed/5/7268/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18703"
         }
     }
 ]
