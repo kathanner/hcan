@@ -24,8 +24,8 @@
     {
         "healthHonolulu":{
             "Indicator":"Child abuse and neglect (birth to age 17)",
-            "CurrentYear":"2022 rate per 1,000",
-            "PreviousYear":"2021",
+            "CurrentYear":"2021 rate per 1,000",
+            "PreviousYear":"2020",
             "Current":"3.2",
             "Previous":"2.9",
             "Change":"up",
@@ -35,8 +35,8 @@
     {
         "healthHonolulu":{
             "Indicator":"Early prenatal care",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
             "Current":"61.1%",
             "Previous":"63.2%",
             "Change":"down",
@@ -46,8 +46,8 @@
     {
         "healthHonolulu":{
             "Indicator":"Low birth weight",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
             "Current":"8.4%",
             "Previous":"8.6%",
             "Change":"down",

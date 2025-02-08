@@ -24,8 +24,8 @@
     {
         "healthHawaiico":{
             "Indicator":"Child abuse and neglect (birth to age 17)",
-            "CurrentYear":"2022 rate per 1,000",
-            "PreviousYear":"2021",
+            "CurrentYear":"2021 rate per 1,000",
+            "PreviousYear":"2020",
             "Current":"10.1",
             "Previous":"6.5",
             "Change":"up",
@@ -35,8 +35,8 @@
     {
         "healthHawaiico":{
             "Indicator":"Early prenatal care",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
             "Current":"45.5%",
             "Previous":"42.5%",
             "Change":"up",
@@ -46,8 +46,8 @@
     {
         "healthHawaiico":{
             "Indicator":"Low birth weight",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
+            "CurrentYear":"2022",
+            "PreviousYear":"2021",
             "Current":"8.7%",
             "Previous":"9.7%",
             "Change":"down",
