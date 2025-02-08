@@ -4,10 +4,10 @@
             "Indicator":"High school seniors graduating with a diploma",
             "CurrentYear":"2023",
             "PreviousYear":"2022",
-            "Current":"95.7%",
-            "Previous":"94.7%",
-            "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/4874-high-school-seniors-graduating-with-a-diploma?loc=13&loct=2#detailed/5/7269/false/1095,2048,574,1729,37,871,870,573,869,36/any/11258"
+            "Current":"94.1%",
+            "Previous":"95.7%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/4874-high-school-seniors-graduating-with-a-diploma?loc=13&loct=2#detailed/5/7269/true/2545,1095,2048,574,1729,37,871,870,573,869/any/11258"
         }
     },
     {
@@ -15,10 +15,10 @@
             "Indicator":"Percent of K-12 students in special education",
             "CurrentYear":"2023",
             "PreviousYear":"2022",
-            "Current":"10.6%",
-            "Previous":"10.2%",
+            "Current":"10.7%",
+            "Previous":"10.6%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9684-of-k-12-students-in-special-education?loc=13&loct=2#detailed/5/7269/false/1095,2048,574,1729,37,871,870,573,869,36/any/18923"
+            "Source":"https://datacenter.aecf.org/data/tables/9684-of-k-12-students-in-special-education?loc=13&loct=2#detailed/5/7269/false/2545,1095,2048,574,1729,37,871,870,573,869/any/18923"
         }
     },
     {
@@ -26,10 +26,10 @@
             "Indicator":"Percent of students who are English language learners",
             "CurrentYear":"2023",
             "PreviousYear":"2022",
-            "Current":"10.6%",
-            "Previous":"10.7%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9685-of-students-who-are-english-language-learners?loc=13&loct=2#detailed/5/7269/false/1095,2048,574,1729,37,871,870,573,869,36/any/18924"
+            "Current":"10.9%",
+            "Previous":"10.6%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9685-of-students-who-are-english-language-learners?loc=13&loct=2#detailed/5/7269/false/2545,1095,2048,574,1729,37,871,870,573,869/any/18924"
         }
     },
     {
