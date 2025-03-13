@@ -23,7 +23,7 @@
     },
     {
         "economicsHawaii":{
-            "Indicator":"Percent of children w/no parents in workforce",
+            "Indicator":"Percent of children with no parents in workforce",
             "CurrentYear":"2018-2022",
             "PreviousYear":"2017-2021",
             "Current":"7.5%",
