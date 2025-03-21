@@ -35,12 +35,12 @@
     {
         "demographicsKauai":{
             "Indicator":"Percent of families with children that have young children",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"38.1%",
-            "Previous":"39.0%",
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"32.3%",
+            "Previous":"38.1%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9286-of-families-with-children-that-have-young-children?loc=13&loct=2#detailed/5/7268/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18369"
+            "Source":"https://datacenter.aecf.org/data/tables/9286-of-families-with-children-that-have-young-children?loc=13&loct=2#detailed/5/7268/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/6273/18369"
         }
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "economicsHawaii":{
-            "Indicator":"Teens ages 16-19 not attending school/not working",
+            "Indicator":"Teens ages 16-19 not attending school/nnot working",
             "CurrentYear":"2018-2022",
             "PreviousYear":"2017-2021",
             "Current":"8.5%",
@@ -23,13 +23,13 @@
     },
     {
         "economicsHawaii":{
-            "Indicator":"Percent of children with no parents in workforce",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"7.5%",
-            "Previous":"7.7%",
+            "Indicator":"Percent children with no parents in workforce",
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"7.4%",
+            "Previous":"7.5%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9897-of-children-with-no-parents-in-workforce?loc=13&loct=2#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19227"
+            "Source":"https://datacenter.aecf.org/data/tables/9897-of-children-with-no-parents-in-workforce?loc=13&loct=2#detailed/2/any/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/6273/19227"
         }
     },
     {
@@ -46,45 +46,45 @@
     {
         "economicsHawaii":{
             "Indicator":"Households with a housing cost burden (owner)",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"30.1%",
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"30.5%",
             "Previous":"30.1%",
-            "Change":"flat",
-            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/3500,3501|6273/19562"
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/2/any/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/3500|6273/19562"
         }
     },
     {
         "economicsHawaii":{
             "Indicator":"Households with a housing cost burden (renter)",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"51.4%",
-            "Previous":"51.0%",
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"51.9%",
+            "Previous":"51.4%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/3500,3501|6273/19562"
+            "Source":"https://datacenter.aecf.org/data/tables/10133-households-with-a-housing-cost-burden?loc=13&loct=2#detailed/2/any/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/3501|6273/19562"
         }
     },
     {
         "economicsHawaii":{
             "Indicator":"Percent of young children with all parents in workforce",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"66.5%",
-            "Previous":"65.4%",
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"67.4%",
+            "Previous":"66.5%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/any/19229"
+            "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/2/any/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/any/19229"
         }
     },
     {
         "economicsHawaii":{
             "Indicator":"Children under 18 in low-income families",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"28.5%",
-            "Previous":"27.6%",
-            "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9531-children-under-age-18-in-low-income-families?loc=13&loct=5#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18703"
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"28.1%",
+            "Previous":"28.5%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/9531-children-under-age-18-in-low-income-families?loc=13&loct=5#detailed/2/any/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/6273/18703"
         }
     }
 ]
