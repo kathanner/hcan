@@ -5,7 +5,7 @@ When new data are available, there are two methods for updating the JSON files.
 
 <strong>Method 1. <a href="https://docs.google.com/spreadsheets/d/1Fu8wvaH2dYX3tfzBETkaeOHDT2i7hpRH9c4cQ7tFQ_c/edit?usp=sharing" target="_blank">Google Sheet</a></strong>
 <ol>
-  <li>Update the columns A-G</li>
+  <li>Update the columns A-J</li>
   <li>Check the blue columns for data points in the most recent year for each combination of indicator + location</li>
   <ul>
     <li>If there is not data associated with the indicator + location section, adjust the formula in Column K in the identified indicator rows only</li>
