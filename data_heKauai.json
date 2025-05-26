@@ -2,12 +2,12 @@
     {
         "healthKauai":{
             "Indicator":"Birth to resident teens",
-            "CurrentYear":"2022",
+            "CurrentYear":"2022 rate per 1,000",
             "PreviousYear":"2021",
-            "Current":"12.2%",
-            "Previous":"12.0%",
-            "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9554-births-to-resident-teens-ages-15-to-19?loc=13&loct=5#detailed/5/7268/false/1095,2048,574,1729,37,871,870,573,869,36/6445/22056"
+            "Current":"12.1",
+            "Previous":"12.1",
+            "Change":"flat",
+            "Source":"https://datacenter.aecf.org/data/tables/9554-births-to-resident-teens-ages-15-to-19?loc=13&loct=5#detailed/5/7268/false/2545,1095,2048,574,1729,37,871,870,573,869/6445/22056"
         }
     },
     {
@@ -26,7 +26,7 @@
             "Indicator":"Child abuse and neglect (birth to age 17)",
             "CurrentYear":"2023 rate per 1,000",
             "PreviousYear":"2022",
-            "Current":"4",
+            "Current":"4.0",
             "Previous":"6.1",
             "Change":"down",
             "Source":"https://datacenter.aecf.org/data/tables/11979-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=2#detailed/5/7268/false/2545,1095,2048,574/6445/23402"
@@ -35,23 +35,23 @@
     {
         "healthKauai":{
             "Indicator":"Early prenatal care",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
-            "Current":"74.9%",
-            "Previous":"76.3%",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
+            "Current":"74.5%",
+            "Previous":"74.9%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/4533-early-prenatal-care?loc=13&loct=2#detailed/5/7268/false/1095,2048,574,1729,37,871,870,573,869/6273/10358"
+            "Source":"https://datacenter.aecf.org/data/tables/4533-early-prenatal-care?loc=13&loct=2#detailed/5/7268/false/2545,1095,2048,574,1729,37,871,870,573,869/6273/10358"
         }
     },
     {
         "healthKauai":{
             "Indicator":"Low birth weight",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
-            "Current":"6.2%",
-            "Previous":"8.8%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/10282-low-birth-weight?loc=13&loct=2#detailed/5/7268/false/1095,2048,574,1729,37,871,870,573,869,36/6273/19910"
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
+            "Current":"7.4%",
+            "Previous":"6.2%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/10282-low-birth-weight?loc=13&loct=2#detailed/5/7268/false/2545,1095,2048,574,1729,37,871,870,573,869/6273/19910"
         }
     }
 ]

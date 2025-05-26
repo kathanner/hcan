@@ -2,12 +2,12 @@
     {
         "healthHonolulu":{
             "Indicator":"Birth to resident teens",
-            "CurrentYear":"2022",
+            "CurrentYear":"2022 rate per 1,000",
             "PreviousYear":"2021",
-            "Current":"10.7%",
-            "Previous":"11.2%",
+            "Current":"10.6",
+            "Previous":"11.3",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9554-births-to-resident-teens-ages-15-to-19?loc=13&loct=5#detailed/5/7266/false/1095,2048,574,1729,37,871,870,573,869,36/6445/22056"
+            "Source":"https://datacenter.aecf.org/data/tables/9554-births-to-resident-teens-ages-15-to-19?loc=13&loct=5#detailed/5/7266/false/2545,1095,2048,574,1729,37,871,870,573,869/6445/22056"
         }
     },
     {
@@ -17,7 +17,7 @@
             "PreviousYear":"2018-2022",
             "Current":"97.4%",
             "Previous":"97.5%",
-            "Change":"down",
+            "Change":"up",
             "Source":"https://datacenter.aecf.org/data/tables/10406-of-children-with-health-insurance?loc=13&loct=5#detailed/5/7266/false/2606,2543,2454,2026,1983,1692,1691/6273/20092"
         }
     },
@@ -35,23 +35,23 @@
     {
         "healthHonolulu":{
             "Indicator":"Early prenatal care",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
-            "Current":"61.1%",
-            "Previous":"63.2%",
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
+            "Current":"56.7%",
+            "Previous":"61.1%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/4533-early-prenatal-care?loc=13&loct=2#detailed/5/7266/false/1095,2048,574,1729,37,871,870,573,869/6273/10358"
+            "Source":"https://datacenter.aecf.org/data/tables/4533-early-prenatal-care?loc=13&loct=2#detailed/5/7266/false/2545,1095,2048,574,1729,37,871,870,573,869/6273/10358"
         }
     },
     {
         "healthHonolulu":{
             "Indicator":"Low birth weight",
-            "CurrentYear":"2022",
-            "PreviousYear":"2021",
-            "Current":"8.4%",
-            "Previous":"8.6%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/10282-low-birth-weight?loc=13&loct=2#detailed/5/7266/false/1095,2048,574,1729,37,871,870,573,869,36/6273/19910"
+            "CurrentYear":"2023",
+            "PreviousYear":"2022",
+            "Current":"8.7%",
+            "Previous":"8.4%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/10282-low-birth-weight?loc=13&loct=2#detailed/5/7266/false/2545,1095,2048,574,1729,37,871,870,573,869/6273/19910"
         }
     }
 ]
