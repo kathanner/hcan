@@ -2,45 +2,45 @@
     {
         "educationHawaiico":{
             "Indicator":"High school seniors graduating with a diploma",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
-            "Current":"92.5%",
-            "Previous":"90.4%",
+            "CurrentYear":"2024",
+            "PreviousYear":"2023",
+            "Current":"94.5%",
+            "Previous":"94.1%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/4874-high-school-seniors-graduating-with-a-diploma?loc=13&loct=2#detailed/5/7267/true/2545,1095,2048,574,1729,37,871,870,573,869/any/11258"
+            "Source":"https://datacenter.aecf.org/data/tables/12035-high-school-seniors-graduating-with-a-diploma?loc=13&loct=2#detailed/5/7267/false/1096,2545,1095,2048,574/any/23670"
         }
     },
     {
         "educationHawaiico":{
             "Indicator":"Percent of K-12 students in special education",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
-            "Current":"11.7%",
-            "Previous":"11.5%",
+            "CurrentYear":"2024",
+            "PreviousYear":"2023",
+            "Current":"12.0%",
+            "Previous":"11.7%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9684-of-k-12-students-in-special-education?loc=13&loct=2#detailed/5/7267/false/2545,1095,2048,574,1729,37,871,870,573,869/any/18923"
+            "Source":"https://datacenter.aecf.org/data/tables/9684-of-k-12-students-in-special-education?loc=13&loct=2#detailed/5/7267/false/1096,2545,1095,2048,574,1729,37,871,870,573/any/18923"
         }
     },
     {
         "educationHawaiico":{
             "Indicator":"Percent of students who are English language learners",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
-            "Current":"11.4%",
-            "Previous":"10.8%",
+            "CurrentYear":"2024",
+            "PreviousYear":"2023",
+            "Current":"12.0%",
+            "Previous":"11.4%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9685-of-students-who-are-english-language-learners?loc=13&loct=2#detailed/5/7267/false/2545,1095,2048,574,1729,37,871,870,573,869/any/18924"
+            "Source":"https://datacenter.aecf.org/data/tables/9685-of-students-who-are-english-language-learners?loc=13&loct=2#detailed/5/7267/false/1096,2545,1095,2048,574,1729,37,871,870,573/any/18924"
         }
     },
     {
         "educationHawaiico":{
             "Indicator":"On-time graduation",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
-            "Current":"83.2%",
-            "Previous":"82.5%",
-            "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/4591-on-time-graduation?loc=13&loct=2#detailed/5/7267/false/2545,1095,2048,574,1729,37,871,870,573,869/any/10606"
+            "CurrentYear":"2024",
+            "PreviousYear":"2023",
+            "Current":"82.5%",
+            "Previous":"84.0%",
+            "Change":"down",
+            "Source":"https://datacenter.aecf.org/data/tables/12047-on-time-high-school-graduation?loc=13&loct=2#detailed/5/7267/false/1096,2545,1095,2048,574/any/23687"
         }
     }
 ]
