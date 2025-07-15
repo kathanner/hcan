@@ -1,24 +1,24 @@
 [
     {
         "economicsMaui":{
-            "Indicator":"Teens ages 16-19 not attending school/not working",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"8.8%",
-            "Previous":"10.9%",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9792-teens-ages-16-to-19-not-attending-school-not-working?loc=13&loct=2#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19067"
+            "Indicator":"Teens ages 16-19 not attending school/nnot working",
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"8.0%",
+            "Previous":"8.8%",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9792-teens-ages-16-to-19-not-attending-school-not-working?loc=13&loct=2#detailed/5/7269/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/6273/19067"
         }
     },
     {
         "economicsMaui":{
             "Indicator":"Children receiving public assistance",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"23.4%",
-            "Previous":"21.7%",
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"25.6%",
+            "Previous":"23.4%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=5#detailed/5/7269/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19050"
+            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=5#detailed/5/7269/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/6273/19050"
         }
     },
     {

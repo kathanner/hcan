@@ -1,24 +1,24 @@
 [
     {
         "economicsHawaiico":{
-            "Indicator":"Teens ages 16-19 not attending school/not working",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"11.0%",
-            "Previous":"9.7%",
+            "Indicator":"Teens ages 16-19 not attending school/nnot working",
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"11.1%",
+            "Previous":"11.0%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9792-teens-ages-16-to-19-not-attending-school-not-working?loc=13&loct=2#detailed/5/7267/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19067"
+            "Source":"https://datacenter.aecf.org/data/tables/9792-teens-ages-16-to-19-not-attending-school-not-working?loc=13&loct=2#detailed/5/7267/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/6273/19067"
         }
     },
     {
         "economicsHawaiico":{
             "Indicator":"Children receiving public assistance",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"39.3%",
-            "Previous":"38.9%",
+            "CurrentYear":"2019-2023",
+            "PreviousYear":"2018-2022",
+            "Current":"38.3%",
+            "Previous":"39.3%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=5#detailed/5/7267/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/19050"
+            "Source":"https://datacenter.aecf.org/data/tables/9777-children-receiving-public-assistance?loc=13&loct=5#detailed/5/7267/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/6273/19050"
         }
     },
     {
