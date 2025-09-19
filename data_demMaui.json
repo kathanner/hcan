@@ -26,8 +26,8 @@
             "Indicator":"Population of children under 18",
             "CurrentYear":"2024",
             "PreviousYear":"2023",
-            "Current":"33762",
-            "Previous":"33913",
+            "Current":"33,762",
+            "Previous":"33,913",
             "Change":"down",
             "Source":"https://datacenter.aecf.org/data/tables/9409-population-of-children-under-age-18?loc=13&loct=2#detailed/5/7269/false/1096,2545,1095/6274/18540"
         }
