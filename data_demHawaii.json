@@ -2,23 +2,23 @@
     {
         "demographicsHawaii":{
             "Indicator":"Percent of children in immigrant families",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"28.2%",
-            "Previous":"28.6%",
+            "CurrentYear":"2020-2024",
+            "PreviousYear":"2019-2023",
+            "Current":"27.6%",
+            "Previous":"27.9%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9672-of-children-in-immigrant-families?loc=13&loct=2#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18904"
+            "Source":"https://datacenter.aecf.org/data/tables/9672-of-children-in-immigrant-families?loc=13&loct=2#detailed/5/any/true/2675,2606,2543,2454,2026,1983,1692,1691,1607,1572/6273/18904"
         }
     },
     {
         "demographicsHawaii":{
             "Indicator":"Percent of families with children",
-            "CurrentYear":"2018-2022",
-            "PreviousYear":"2017-2021",
-            "Current":"36.1%",
-            "Previous":"36.4%",
+            "CurrentYear":"2020-2024",
+            "PreviousYear":"2019-2023",
+            "Current":"36.0%",
+            "Previous":"36.1%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9282-of-families-with-children?loc=13&loct=2#detailed/2/any/false/2543,2454,2026,1983,1692,1691,1607,1572,1485,1376/6273/18366"
+            "Source":"https://datacenter.aecf.org/data/tables/9282-of-families-with-children?loc=13&loct=2#detailed/5/any/true/2675,2606,2543,2454,2026,1983,1692,1691,1607,1572/6273/18366"
         }
     },
     {
@@ -35,12 +35,12 @@
     {
         "demographicsHawaii":{
             "Indicator":"Percent of families with children that have young children",
-            "CurrentYear":"2019-2023",
-            "PreviousYear":"2018-2022",
-            "Current":"40.8%",
-            "Previous":"41.5%",
+            "CurrentYear":"2020-2024",
+            "PreviousYear":"2019-2023",
+            "Current":"40.1%",
+            "Previous":"40.8%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9286-of-families-with-children-that-have-young-children?loc=13&loct=2#detailed/2/any/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/6273/18369"
+            "Source":"https://datacenter.aecf.org/data/tables/9286-of-families-with-children-that-have-young-children?loc=13&loct=2#detailed/5/any/true/2675,2606,2543,2454,2026,1983,1692,1691,1607,1572/6273/18369"
         }
     }
 ]
