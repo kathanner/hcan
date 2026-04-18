@@ -2,23 +2,23 @@
     {
         "healthMaui":{
             "Indicator":"Birth to resident teens",
-            "CurrentYear":"2022 rate per 1,000",
-            "PreviousYear":"2021",
-            "Current":"11.8",
-            "Previous":"14.4",
-            "Change":"down",
+            "CurrentYear":"2023 rate per 1,000",
+            "PreviousYear":"2022",
+            "Current":"13",
+            "Previous":"12",
+            "Change":"up",
             "Source":"https://datacenter.aecf.org/data/tables/9554-births-to-resident-teens-ages-15-to-19?loc=13&loct=5#detailed/5/7269/false/2545,1095,2048,574,1729,37,871,870,573,869/6445/22056"
         }
     },
     {
         "healthMaui":{
             "Indicator":"Children with health insurance",
-            "CurrentYear":"2019-2023",
-            "PreviousYear":"2018-2022",
-            "Current":"95.7%",
-            "Previous":"95.9%",
+            "CurrentYear":"2020-2024",
+            "PreviousYear":"2019-2023",
+            "Current":"96.0%",
+            "Previous":"95.7%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/10406-of-children-with-health-insurance?loc=13&loct=5#detailed/5/7269/false/2606,2543,2454,2026,1983,1692,1691/6273/20092"
+            "Source":"https://datacenter.aecf.org/data/tables/10406-of-children-with-health-insurance?loc=13&loct=5#detailed/5/7269/false/2675,2606,2543,2454,2026,1983,1692,1691/6273/20092"
         }
     },
     {
@@ -26,8 +26,8 @@
             "Indicator":"Child abuse and neglect (birth to age 17)",
             "CurrentYear":"2023 rate per 1,000",
             "PreviousYear":"2022",
-            "Current":"2.7",
-            "Previous":"3.9",
+            "Current":"3",
+            "Previous":"4",
             "Change":"down",
             "Source":"https://datacenter.aecf.org/data/tables/11979-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=2#detailed/5/7269/false/2545,1095,2048,574/6445/23402"
         }
