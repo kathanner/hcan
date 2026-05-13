@@ -68,12 +68,12 @@
     {
         "economicsKauai":{
             "Indicator":"Percent of young children with all parents in workforce",
-            "CurrentYear":"2019-2023",
-            "PreviousYear":"2018-2022",
-            "Current":"71.0%",
-            "Previous":"69.2%",
+            "CurrentYear":"2020-2024",
+            "PreviousYear":"2019-2023",
+            "Current":"82.5%",
+            "Previous":"71.0%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7268/false/2606,2543,2454,2026,1983,1692,1691,1607,1572,1485/any/19229"
+            "Source":"https://datacenter.aecf.org/data/tables/9899-of-young-children-with-all-parents-in-workforce?loc=13&loct=2#detailed/5/7268/false/2675,2606,2543,2454,2026,1983,1692,1691,1607,1572/any/19229"
         }
     },
     {
