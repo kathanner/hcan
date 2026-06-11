@@ -2,12 +2,12 @@
     {
         "healthHonolulu":{
             "Indicator":"Birth to resident teens",
-            "CurrentYear":"2023 rate per 1,000",
-            "PreviousYear":"2022",
+            "CurrentYear":"2024 rate per 1,000",
+            "PreviousYear":"2023",
             "Current":"10",
-            "Previous":"11",
-            "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/9554-births-to-resident-teens-ages-15-to-19?loc=13&loct=5#detailed/5/7266/false/2545,1095,2048,574,1729,37,871,870,573,869/6445/22056"
+            "Previous":"10",
+            "Change":"up",
+            "Source":"https://datacenter.aecf.org/data/tables/9554-births-to-resident-teens-ages-15-to-19?loc=13&loct=5#detailed/5/7266/false/1096,2545,1095,2048,574,1729,37,871,870,573/6445/22056"
         }
     },
     {
@@ -35,23 +35,23 @@
     {
         "healthHonolulu":{
             "Indicator":"Early prenatal care",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
-            "Current":"56.7%",
-            "Previous":"61.1%",
+            "CurrentYear":"2024",
+            "PreviousYear":"2023",
+            "Current":"55.7%",
+            "Previous":"56.7%",
             "Change":"down",
-            "Source":"https://datacenter.aecf.org/data/tables/4533-early-prenatal-care?loc=13&loct=2#detailed/5/7266/false/2545,1095,2048,574,1729,37,871,870,573,869/6273/10358"
+            "Source":"https://datacenter.aecf.org/data/tables/4533-early-prenatal-care?loc=13&loct=2#detailed/5/7266/false/1096,2545,1095,2048,574,1729,37,871,870,573/6273/10358"
         }
     },
     {
         "healthHonolulu":{
             "Indicator":"Low birth weight",
-            "CurrentYear":"2023",
-            "PreviousYear":"2022",
-            "Current":"8.7%",
-            "Previous":"8.4%",
+            "CurrentYear":"2024",
+            "PreviousYear":"2023",
+            "Current":"8.9%",
+            "Previous":"8.7%",
             "Change":"up",
-            "Source":"https://datacenter.aecf.org/data/tables/10282-low-birth-weight?loc=13&loct=2#detailed/5/7266/false/2545,1095,2048,574,1729,37,871,870,573,869/6273/19910"
+            "Source":"https://datacenter.aecf.org/data/tables/10282-low-birth-weight?loc=13&loct=2#detailed/5/7266/false/1096,2545,1095,2048,574,1729,37,871,870,573/6273/19910"
         }
     }
 ]
