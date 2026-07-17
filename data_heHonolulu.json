@@ -4,8 +4,8 @@
             "Indicator":"Birth to resident teens",
             "CurrentYear":"2024 rate per 1,000",
             "PreviousYear":"2023",
-            "Current":"10",
-            "Previous":"10",
+            "Current":"10.4",
+            "Previous":"9.7",
             "Change":"up",
             "Source":"https://datacenter.aecf.org/data/tables/9554-births-to-resident-teens-ages-15-to-19?loc=13&loct=5#detailed/5/7266/false/1096,2545,1095,2048,574,1729,37,871,870,573/6445/22056"
         }
@@ -26,8 +26,8 @@
             "Indicator":"Child abuse and neglect (birth to age 17)",
             "CurrentYear":"2024 rate per 1,000",
             "PreviousYear":"2023",
-            "Current":"2",
-            "Previous":"2",
+            "Current":"2.1",
+            "Previous":"1.8",
             "Change":"up",
             "Source":"https://datacenter.aecf.org/data/tables/11979-child-abuse-and-neglect-birth-to-age-17?loc=13&loct=2#detailed/5/7266/false/1096,2545,1095,2048,574/6445/23402"
         }
